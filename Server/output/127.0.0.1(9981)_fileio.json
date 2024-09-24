@@ -1,0 +1,841 @@
+[{"opcode": 32,"opcode_name": "FileCreate","filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\LogFiles\\WMI\\RtBackup\\EtwRTMy kernel trace.etl"},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\Harddisk2\\DR2"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\Harddisk2\\DR2"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\Harddisk1\\DR1"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\Harddisk1\\DR1"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\Harddisk0\\DR0"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\Harddisk0\\DR0"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\monitor.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\monitor.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\monitor.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\monitor.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\wdma_usb.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\wdma_usb.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\wdma_usb.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\wdma_usb.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\msmouse.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\msmouse.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\msmouse.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\msmouse.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usbvideo.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usbvideo.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usbvideo.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usbvideo.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\keyboard.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\usb.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\machine.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\wdma_usb.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\wdma_usb.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\wdma_usb.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\wdma_usb.inf_loc:WofCompressedData"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 32,
+	"opcode_name": "FileCreate",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc"
+},{
+	"opcode": 35,
+	"opcode_name": "FileDelete",
+	"filename": "\\Device\\HarddiskVolume8\\Windows\\System32\\DriverStore\\en-US\\input.inf_loc:WofCompressedData"
+}]

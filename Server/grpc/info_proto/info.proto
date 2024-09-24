@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+package sysinfo;
+
+option go_package="./;proto";
+
+message Process {
+    uint32 pid = 1;                     // DWORD in C++ is an unsigned 32-bit integer
+    string path = 2;                    // std::string -> string
+    string exefile = 3;                 // std::string -> string
+    string process_type = 4;            // std::string -> string
+    string company = 5;                 // std::string -> string
+    string username = 6;                // std::string -> string
+    uint64 private_bytes = 7;           // SIZE_T in C++ is a platform-specific type, use uint64 for large values
+    uint64 working_set = 8;             // Use uint64 for large memory-related values
+    uint64 virtual_bytes = 9;           // uint64 for virtual memory size
+}
+
+message ServerResponse {
+	string msg = 1;
+}
+
+service SystemInfo {
+	rpc Processes(stream Process) returns (ServerResponse){};
+}

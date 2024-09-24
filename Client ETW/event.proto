@@ -1,0 +1,36 @@
+syntax = "proto3";
+
+package eventinfo;
+
+message Process {
+    int32 opcode = 1;
+    string opcode_name = 2;
+    uint32 pid = 3;
+    uint32 ppid = 4;
+    string cmd_line = 5;
+}
+
+message FileIO {
+    int32 opcode = 1;
+    string opcode_name = 2;
+    string filename = 3;
+}
+
+message Registry {
+    int32 opcode = 1;
+    string opcode_name = 2;
+    int64 init_time = 3;
+    uint32 status = 4;
+    uint32 index = 5;
+    string key_name = 6;
+}
+
+message ServerResponse {
+    string msg = 1;
+}
+
+service EventInfo {
+    rpc ProcessEvent(stream Process) returns (ServerResponse);
+    rpc FileIoEvent(stream FileIO) returns (ServerResponse);
+    rpc RegistryEvent(stream Registry) returns (ServerResponse);
+}

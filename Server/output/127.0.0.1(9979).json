@@ -1,0 +1,3151 @@
+[{"pid": 0,"path": "","exefile": "","process_type": "","company": "","username": "","private_bytes": 0,"working_set": 0,"virtual_bytes": 0},{
+	"pid": 4,
+	"path": "Failed to get process image path (31)",
+	"exefile": "System",
+	"process_type": "App Process",
+	"company": "Failed to get process image path",
+	"username": "",
+	"private_bytes": 200704,
+	"working_set": 32768,
+	"virtual_bytes": 200704
+},{
+	"pid": 124,
+	"path": "Failed to get process image path (31)",
+	"exefile": "Registry",
+	"process_type": "App Process",
+	"company": "Failed to get process image path",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 20783104,
+	"working_set": 76886016,
+	"virtual_bytes": 20783104
+},{
+	"pid": 444,
+	"path": "C:\\Windows\\System32\\smss.exe",
+	"exefile": "smss.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1114112,
+	"working_set": 581632,
+	"virtual_bytes": 1114112
+},{
+	"pid": 672,
+	"path": "C:\\Windows\\System32\\csrss.exe",
+	"exefile": "csrss.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2252800,
+	"working_set": 5193728,
+	"virtual_bytes": 2252800
+},{
+	"pid": 768,
+	"path": "C:\\Windows\\System32\\wininit.exe",
+	"exefile": "wininit.exe",
+	"process_type": "System Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1581056,
+	"working_set": 5042176,
+	"virtual_bytes": 1581056
+},{
+	"pid": 776,
+	"path": "C:\\Windows\\System32\\csrss.exe",
+	"exefile": "csrss.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 3465216,
+	"working_set": 5808128,
+	"virtual_bytes": 3465216
+},{
+	"pid": 840,
+	"path": "C:\\Windows\\System32\\services.exe",
+	"exefile": "services.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 7270400,
+	"working_set": 12677120,
+	"virtual_bytes": 7270400
+},{
+	"pid": 852,
+	"path": "C:\\Windows\\System32\\lsass.exe",
+	"exefile": "lsass.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 12222464,
+	"working_set": 26415104,
+	"virtual_bytes": 12222464
+},{
+	"pid": 936,
+	"path": "C:\\Windows\\System32\\winlogon.exe",
+	"exefile": "winlogon.exe",
+	"process_type": "System Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 3260416,
+	"working_set": 9904128,
+	"virtual_bytes": 3260416
+},{
+	"pid": 480,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 12144640,
+	"working_set": 28553216,
+	"virtual_bytes": 12144640
+},{
+	"pid": 696,
+	"path": "C:\\Windows\\System32\\fontdrvhost.exe",
+	"exefile": "fontdrvhost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "Font Driver Host\\UMFD-0",
+	"private_bytes": 1904640,
+	"working_set": 2863104,
+	"virtual_bytes": 1904640
+},{
+	"pid": 532,
+	"path": "C:\\Windows\\System32\\fontdrvhost.exe",
+	"exefile": "fontdrvhost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "Font Driver Host\\UMFD-1",
+	"private_bytes": 8974336,
+	"working_set": 30433280,
+	"virtual_bytes": 8974336
+},{
+	"pid": 1048,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\NETWORK SERVICE",
+	"private_bytes": 10612736,
+	"working_set": 17698816,
+	"virtual_bytes": 10612736
+},{
+	"pid": 1104,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2854912,
+	"working_set": 7114752,
+	"virtual_bytes": 2854912
+},{
+	"pid": 1256,
+	"path": "C:\\Windows\\System32\\dwm.exe",
+	"exefile": "dwm.exe",
+	"process_type": "System Process",
+	"company": "Microsoft Corporation",
+	"username": "Window Manager\\DWM-1",
+	"private_bytes": 180985856,
+	"working_set": 84606976,
+	"virtual_bytes": 180985856
+},{
+	"pid": 1300,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 16855040,
+	"working_set": 14868480,
+	"virtual_bytes": 16855040
+},{
+	"pid": 1336,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2506752,
+	"working_set": 9011200,
+	"virtual_bytes": 2506752
+},{
+	"pid": 1344,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 2027520,
+	"working_set": 11030528,
+	"virtual_bytes": 2027520
+},{
+	"pid": 1484,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1802240,
+	"working_set": 5283840,
+	"virtual_bytes": 1802240
+},{
+	"pid": 1536,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 7028736,
+	"working_set": 14245888,
+	"virtual_bytes": 7028736
+},{
+	"pid": 1576,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 7270400,
+	"working_set": 6127616,
+	"virtual_bytes": 7270400
+},{
+	"pid": 1596,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 3526656,
+	"working_set": 12709888,
+	"virtual_bytes": 3526656
+},{
+	"pid": 1784,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 3039232,
+	"working_set": 9244672,
+	"virtual_bytes": 3039232
+},{
+	"pid": 1792,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 2564096,
+	"working_set": 6787072,
+	"virtual_bytes": 2564096
+},{
+	"pid": 1964,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\NETWORK SERVICE",
+	"private_bytes": 5472256,
+	"working_set": 11722752,
+	"virtual_bytes": 5472256
+},{
+	"pid": 2036,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 1687552,
+	"working_set": 5091328,
+	"virtual_bytes": 1687552
+},{
+	"pid": 2084,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 3629056,
+	"working_set": 9494528,
+	"virtual_bytes": 3629056
+},{
+	"pid": 2100,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2863104,
+	"working_set": 11579392,
+	"virtual_bytes": 2863104
+},{
+	"pid": 2216,
+	"path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispsig.inf_amd64_441c71b9228d91a3\\Display.NvContainer\\NVDisplay.Container.exe",
+	"exefile": "NVDisplay.Container.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 21614592,
+	"working_set": 31219712,
+	"virtual_bytes": 21614592
+},{
+	"pid": 2252,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 21831680,
+	"working_set": 27316224,
+	"virtual_bytes": 21831680
+},{
+	"pid": 2260,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 1540096,
+	"working_set": 5832704,
+	"virtual_bytes": 1540096
+},{
+	"pid": 2328,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 2269184,
+	"working_set": 6782976,
+	"virtual_bytes": 2269184
+},{
+	"pid": 2392,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 1974272,
+	"working_set": 6385664,
+	"virtual_bytes": 1974272
+},{
+	"pid": 2400,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1478656,
+	"working_set": 4816896,
+	"virtual_bytes": 1478656
+},{
+	"pid": 2408,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 3006464,
+	"working_set": 13594624,
+	"virtual_bytes": 3006464
+},{
+	"pid": 2452,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 3436544,
+	"working_set": 8392704,
+	"virtual_bytes": 3436544
+},{
+	"pid": 2568,
+	"path": "Failed to get process image path (31)",
+	"exefile": "Memory Compression",
+	"process_type": "App Process",
+	"company": "Failed to get process image path",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 4476928,
+	"working_set": 219025408,
+	"virtual_bytes": 4476928
+},{
+	"pid": 2580,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\NETWORK SERVICE",
+	"private_bytes": 3837952,
+	"working_set": 7950336,
+	"virtual_bytes": 3837952
+},{
+	"pid": 2632,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1953792,
+	"working_set": 7143424,
+	"virtual_bytes": 1953792
+},{
+	"pid": 2700,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2457600,
+	"working_set": 7294976,
+	"virtual_bytes": 2457600
+},{
+	"pid": 2712,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 2043904,
+	"working_set": 7266304,
+	"virtual_bytes": 2043904
+},{
+	"pid": 2820,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1572864,
+	"working_set": 5656576,
+	"virtual_bytes": 1572864
+},{
+	"pid": 2924,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 19226624,
+	"working_set": 22556672,
+	"virtual_bytes": 19226624
+},{
+	"pid": 2992,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1478656,
+	"working_set": 5398528,
+	"virtual_bytes": 1478656
+},{
+	"pid": 2764,
+	"path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nv_dispsig.inf_amd64_441c71b9228d91a3\\Display.NvContainer\\NVDisplay.Container.exe",
+	"exefile": "NVDisplay.Container.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 38252544,
+	"working_set": 33222656,
+	"virtual_bytes": 38252544
+},{
+	"pid": 3020,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 4378624,
+	"working_set": 14655488,
+	"virtual_bytes": 4378624
+},{
+	"pid": 3096,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 19230720,
+	"working_set": 28037120,
+	"virtual_bytes": 19230720
+},{
+	"pid": 3356,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 3104768,
+	"working_set": 9441280,
+	"virtual_bytes": 3104768
+},{
+	"pid": 3580,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 2813952,
+	"working_set": 8609792,
+	"virtual_bytes": 2813952
+},{
+	"pid": 3596,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 2908160,
+	"working_set": 9273344,
+	"virtual_bytes": 2908160
+},{
+	"pid": 3656,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2535424,
+	"working_set": 11104256,
+	"virtual_bytes": 2535424
+},{
+	"pid": 3968,
+	"path": "C:\\Windows\\System32\\spoolsv.exe",
+	"exefile": "spoolsv.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 5881856,
+	"working_set": 13021184,
+	"virtual_bytes": 5881856
+},{
+	"pid": 4008,
+	"path": "C:\\Windows\\System32\\wbem\\WmiPrvSE.exe",
+	"exefile": "WmiPrvSE.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 5308416,
+	"working_set": 13602816,
+	"virtual_bytes": 5308416
+},{
+	"pid": 4016,
+	"path": "C:\\Windows\\System32\\wbem\\WmiPrvSE.exe",
+	"exefile": "WmiPrvSE.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\NETWORK SERVICE",
+	"private_bytes": 20897792,
+	"working_set": 35483648,
+	"virtual_bytes": 20897792
+},{
+	"pid": 3604,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\NETWORK SERVICE",
+	"private_bytes": 2142208,
+	"working_set": 6742016,
+	"virtual_bytes": 2142208
+},{
+	"pid": 4100,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 34844672,
+	"working_set": 33316864,
+	"virtual_bytes": 34844672
+},{
+	"pid": 4108,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1273856,
+	"working_set": 4792320,
+	"virtual_bytes": 1273856
+},{
+	"pid": 4116,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 23334912,
+	"working_set": 40239104,
+	"virtual_bytes": 23334912
+},{
+	"pid": 4128,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\NETWORK SERVICE",
+	"private_bytes": 4800512,
+	"working_set": 14065664,
+	"virtual_bytes": 4800512
+},{
+	"pid": 4136,
+	"path": "C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSAService.exe",
+	"exefile": "DSAService.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 59359232,
+	"working_set": 88080384,
+	"virtual_bytes": 59359232
+},{
+	"pid": 4152,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2883584,
+	"working_set": 6270976,
+	"virtual_bytes": 2883584
+},{
+	"pid": 4176,
+	"path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\dal.inf_amd64_af50fdb80983f7bc\\jhi_service.exe",
+	"exefile": "jhi_service.exe",
+	"process_type": "App Process",
+	"company": "Intel Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1339392,
+	"working_set": 4796416,
+	"virtual_bytes": 1339392
+},{
+	"pid": 4184,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1531904,
+	"working_set": 5406720,
+	"virtual_bytes": 1531904
+},{
+	"pid": 4204,
+	"path": "C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSAUpdateService.exe",
+	"exefile": "DSAUpdateService.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 33628160,
+	"working_set": 37179392,
+	"virtual_bytes": 33628160
+},{
+	"pid": 4216,
+	"path": "C:\\Program Files\\LGHUB\\lghub_updater.exe",
+	"exefile": "lghub_updater.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 20561920,
+	"working_set": 15073280,
+	"virtual_bytes": 20561920
+},{
+	"pid": 4280,
+	"path": "C:\\Program Files (x86)\\Common Files\\Foxit\\Foxit PDF Reader\\FoxitPDFReaderUpdateService.exe",
+	"exefile": "FoxitPDFReaderUpdateService.exe",
+	"process_type": "App Process",
+	"company": "Foxit Software Inc.",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1826816,
+	"working_set": 6905856,
+	"virtual_bytes": 1826816
+},{
+	"pid": 4288,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 1634304,
+	"working_set": 5222400,
+	"virtual_bytes": 1634304
+},{
+	"pid": 4296,
+	"path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.24080.9-0\\MpDefenderCoreService.exe",
+	"exefile": "MpDefenderCoreService.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 11857920,
+	"working_set": 20045824,
+	"virtual_bytes": 11857920
+},{
+	"pid": 4312,
+	"path": "C:\\Program Files\\OpenVPN\\bin\\openvpnserv2.exe",
+	"exefile": "openvpnserv2.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 15695872,
+	"working_set": 11853824,
+	"virtual_bytes": 15695872
+},{
+	"pid": 4324,
+	"path": "C:\\Program Files\\OpenVPN\\bin\\openvpnserv.exe",
+	"exefile": "openvpnserv.exe",
+	"process_type": "App Process",
+	"company": "The OpenVPN Project",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1216512,
+	"working_set": 3952640,
+	"virtual_bytes": 1216512
+},{
+	"pid": 4332,
+	"path": "C:\\metasploit\\ruby\\bin\\ruby.exe",
+	"exefile": "ruby.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 194617344,
+	"working_set": 37834752,
+	"virtual_bytes": 194617344
+},{
+	"pid": 4348,
+	"path": "C:\\metasploit\\ruby\\bin\\ruby.exe",
+	"exefile": "ruby.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 569901056,
+	"working_set": 66338816,
+	"virtual_bytes": 569901056
+},{
+	"pid": 4340,
+	"path": "C:\\metasploit\\ruby\\bin\\ruby.exe",
+	"exefile": "ruby.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 434806784,
+	"working_set": 24387584,
+	"virtual_bytes": 434806784
+},{
+	"pid": 4372,
+	"path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\OfficeClickToRun.exe",
+	"exefile": "OfficeClickToRun.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 40898560,
+	"working_set": 38252544,
+	"virtual_bytes": 40898560
+},{
+	"pid": 4380,
+	"path": "C:\\metasploit\\postgresql\\bin\\pg_ctl.exe",
+	"exefile": "pg_ctl.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1466368,
+	"working_set": 4349952,
+	"virtual_bytes": 1466368
+},{
+	"pid": 4388,
+	"path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iaahcic.inf_amd64_3de4831720bb2934\\RstMwService.exe",
+	"exefile": "RstMwService.exe",
+	"process_type": "App Process",
+	"company": "Intel Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1544192,
+	"working_set": 5468160,
+	"virtual_bytes": 1544192
+},{
+	"pid": 4404,
+	"path": "C:\\Windows\\System32\\RtkAudUService64.exe",
+	"exefile": "RtkAudUService64.exe",
+	"process_type": "App Process",
+	"company": "Realtek Semiconductor",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2539520,
+	"working_set": 8302592,
+	"virtual_bytes": 2539520
+},{
+	"pid": 4412,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 1978368,
+	"working_set": 7036928,
+	"virtual_bytes": 1978368
+},{
+	"pid": 4428,
+	"path": "C:\\Program Files\\Microsoft SQL Server\\90\\Shared\\sqlwriter.exe",
+	"exefile": "sqlwriter.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1961984,
+	"working_set": 6410240,
+	"virtual_bytes": 1961984
+},{
+	"pid": 4448,
+	"path": "C:\\Program Files\\Intel\\SUR\\QUEENCREEK\\SurSvc.exe",
+	"exefile": "SurSvc.exe",
+	"process_type": "Background Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 27131904,
+	"working_set": 31518720,
+	"virtual_bytes": 27131904
+},{
+	"pid": 4472,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1355776,
+	"working_set": 4497408,
+	"virtual_bytes": 1355776
+},{
+	"pid": 4492,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 4530176,
+	"working_set": 19070976,
+	"virtual_bytes": 4530176
+},{
+	"pid": 4500,
+	"path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\mewmiprov.inf_amd64_d51901c26227fb29\\WMIRegistrationService.exe",
+	"exefile": "WMIRegistrationService.exe",
+	"process_type": "App Process",
+	"company": "Intel Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2932736,
+	"working_set": 11833344,
+	"virtual_bytes": 2932736
+},{
+	"pid": 4508,
+	"path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.24080.9-0\\MsMpEng.exe",
+	"exefile": "MsMpEng.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 446386176,
+	"working_set": 369647616,
+	"virtual_bytes": 446386176
+},{
+	"pid": 4516,
+	"path": "C:\\Program Files\\TeamViewer\\TeamViewer_Service.exe",
+	"exefile": "TeamViewer_Service.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 17743872,
+	"working_set": 14127104,
+	"virtual_bytes": 17743872
+},{
+	"pid": 4732,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 1445888,
+	"working_set": 4423680,
+	"virtual_bytes": 1445888
+},{
+	"pid": 4836,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\NETWORK SERVICE",
+	"private_bytes": 2736128,
+	"working_set": 7163904,
+	"virtual_bytes": 2736128
+},{
+	"pid": 5052,
+	"path": "C:\\Windows\\System32\\dasHost.exe",
+	"exefile": "dasHost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 3944448,
+	"working_set": 12390400,
+	"virtual_bytes": 3944448
+},{
+	"pid": 5124,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2572288,
+	"working_set": 8355840,
+	"virtual_bytes": 2572288
+},{
+	"pid": 5228,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 5472256,
+	"working_set": 12320768,
+	"virtual_bytes": 5472256
+},{
+	"pid": 5484,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 3887104,
+	"working_set": 11984896,
+	"virtual_bytes": 3887104
+},{
+	"pid": 5500,
+	"path": "C:\\Windows\\System32\\sihost.exe",
+	"exefile": "sihost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 7442432,
+	"working_set": 29642752,
+	"virtual_bytes": 7442432
+},{
+	"pid": 5520,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 11337728,
+	"working_set": 31555584,
+	"virtual_bytes": 11337728
+},{
+	"pid": 5668,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 9494528,
+	"working_set": 37281792,
+	"virtual_bytes": 9494528
+},{
+	"pid": 5836,
+	"path": "C:\\metasploit\\postgresql\\bin\\postgres.exe",
+	"exefile": "postgres.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2428928,
+	"working_set": 17641472,
+	"virtual_bytes": 2428928
+},{
+	"pid": 5872,
+	"path": "C:\\Windows\\System32\\conhost.exe",
+	"exefile": "conhost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 6885376,
+	"working_set": 7081984,
+	"virtual_bytes": 6885376
+},{
+	"pid": 5516,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 6230016,
+	"working_set": 21905408,
+	"virtual_bytes": 6230016
+},{
+	"pid": 6536,
+	"path": "C:\\Windows\\System32\\taskhostw.exe",
+	"exefile": "taskhostw.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 7385088,
+	"working_set": 17039360,
+	"virtual_bytes": 7385088
+},{
+	"pid": 6572,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 2375680,
+	"working_set": 6631424,
+	"virtual_bytes": 2375680
+},{
+	"pid": 6580,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\NETWORK SERVICE",
+	"private_bytes": 2224128,
+	"working_set": 6828032,
+	"virtual_bytes": 2224128
+},{
+	"pid": 6808,
+	"path": "C:\\Program Files\\Cloudflare\\Cloudflare WARP\\warp-svc.exe",
+	"exefile": "warp-svc.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 56913920,
+	"working_set": 37236736,
+	"virtual_bytes": 56913920
+},{
+	"pid": 7088,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1847296,
+	"working_set": 7069696,
+	"virtual_bytes": 1847296
+},{
+	"pid": 6328,
+	"path": "C:\\Windows\\System32\\ctfmon.exe",
+	"exefile": "ctfmon.exe",
+	"process_type": "System Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 5472256,
+	"working_set": 21401600,
+	"virtual_bytes": 5472256
+},{
+	"pid": 7424,
+	"path": "C:\\metasploit\\postgresql\\bin\\postgres.exe",
+	"exefile": "postgres.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1945600,
+	"working_set": 5148672,
+	"virtual_bytes": 1945600
+},{
+	"pid": 7484,
+	"path": "C:\\Windows\\System32\\dllhost.exe",
+	"exefile": "dllhost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 4055040,
+	"working_set": 9867264,
+	"virtual_bytes": 4055040
+},{
+	"pid": 7744,
+	"path": "C:\\metasploit\\postgresql\\bin\\postgres.exe",
+	"exefile": "postgres.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2293760,
+	"working_set": 6844416,
+	"virtual_bytes": 2293760
+},{
+	"pid": 7756,
+	"path": "C:\\metasploit\\postgresql\\bin\\postgres.exe",
+	"exefile": "postgres.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2240512,
+	"working_set": 6623232,
+	"virtual_bytes": 2240512
+},{
+	"pid": 7764,
+	"path": "C:\\metasploit\\postgresql\\bin\\postgres.exe",
+	"exefile": "postgres.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2215936,
+	"working_set": 9629696,
+	"virtual_bytes": 2215936
+},{
+	"pid": 7772,
+	"path": "C:\\metasploit\\postgresql\\bin\\postgres.exe",
+	"exefile": "postgres.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2879488,
+	"working_set": 6529024,
+	"virtual_bytes": 2879488
+},{
+	"pid": 7784,
+	"path": "C:\\metasploit\\postgresql\\bin\\postgres.exe",
+	"exefile": "postgres.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2281472,
+	"working_set": 5787648,
+	"virtual_bytes": 2281472
+},{
+	"pid": 7792,
+	"path": "C:\\metasploit\\postgresql\\bin\\postgres.exe",
+	"exefile": "postgres.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2813952,
+	"working_set": 5881856,
+	"virtual_bytes": 2813952
+},{
+	"pid": 8080,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2674688,
+	"working_set": 9158656,
+	"virtual_bytes": 2674688
+},{
+	"pid": 8128,
+	"path": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftPCManager_3.12.5.0_x64__8wekyb3d8bbwe\\PCManager\\MSPCManagerService.exe",
+	"exefile": "MSPCManagerService.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 100204544,
+	"working_set": 46637056,
+	"virtual_bytes": 100204544
+},{
+	"pid": 7284,
+	"path": "C:\\Windows\\System32\\SearchIndexer.exe",
+	"exefile": "SearchIndexer.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 41283584,
+	"working_set": 45154304,
+	"virtual_bytes": 41283584
+},{
+	"pid": 7836,
+	"path": "C:\\Windows\\explorer.exe",
+	"exefile": "explorer.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 296685568,
+	"working_set": 160739328,
+	"virtual_bytes": 296685568
+},{
+	"pid": 8316,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 5435392,
+	"working_set": 16543744,
+	"virtual_bytes": 5435392
+},{
+	"pid": 8524,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 2486272,
+	"working_set": 7262208,
+	"virtual_bytes": 2486272
+},{
+	"pid": 8920,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1847296,
+	"working_set": 7036928,
+	"virtual_bytes": 1847296
+},{
+	"pid": 9004,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 2224128,
+	"working_set": 8368128,
+	"virtual_bytes": 2224128
+},{
+	"pid": 8268,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 8597504,
+	"working_set": 32464896,
+	"virtual_bytes": 8597504
+},{
+	"pid": 9056,
+	"path": "C:\\Windows\\System32\\AggregatorHost.exe",
+	"exefile": "AggregatorHost.exe",
+	"process_type": "App Process",
+	"company": "Failed to get version info size",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 3346432,
+	"working_set": 6213632,
+	"virtual_bytes": 3346432
+},{
+	"pid": 6024,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 3092480,
+	"working_set": 8196096,
+	"virtual_bytes": 3092480
+},{
+	"pid": 8960,
+	"path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+	"exefile": "RuntimeBroker.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 15638528,
+	"working_set": 47665152,
+	"virtual_bytes": 15638528
+},{
+	"pid": 10176,
+	"path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+	"exefile": "RuntimeBroker.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 7376896,
+	"working_set": 28803072,
+	"virtual_bytes": 7376896
+},{
+	"pid": 10292,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 6754304,
+	"working_set": 19091456,
+	"virtual_bytes": 6754304
+},{
+	"pid": 10364,
+	"path": "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+	"exefile": "MoUsoCoreWorker.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 16916480,
+	"working_set": 23433216,
+	"virtual_bytes": 16916480
+},{
+	"pid": 10436,
+	"path": "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe",
+	"exefile": "SearchApp.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 307867648,
+	"working_set": 90222592,
+	"virtual_bytes": 307867648
+},{
+	"pid": 11048,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 4501504,
+	"working_set": 17752064,
+	"virtual_bytes": 4501504
+},{
+	"pid": 11516,
+	"path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+	"exefile": "RuntimeBroker.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 10694656,
+	"working_set": 31424512,
+	"virtual_bytes": 10694656
+},{
+	"pid": 12212,
+	"path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.24080.9-0\\NisSrv.exe",
+	"exefile": "NisSrv.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 11239424,
+	"working_set": 15544320,
+	"virtual_bytes": 11239424
+},{
+	"pid": 12076,
+	"path": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe",
+	"exefile": "TextInputHost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 50774016,
+	"working_set": 58044416,
+	"virtual_bytes": 50774016
+},{
+	"pid": 11860,
+	"path": "C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSATray.exe",
+	"exefile": "DSATray.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 29261824,
+	"working_set": 41091072,
+	"virtual_bytes": 29261824
+},{
+	"pid": 7156,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 7008256,
+	"working_set": 12320768,
+	"virtual_bytes": 7008256
+},{
+	"pid": 3396,
+	"path": "C:\\Windows\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy\\LockApp.exe",
+	"exefile": "LockApp.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 46100480,
+	"working_set": 52834304,
+	"virtual_bytes": 46100480
+},{
+	"pid": 11512,
+	"path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+	"exefile": "RuntimeBroker.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 6811648,
+	"working_set": 29736960,
+	"virtual_bytes": 6811648
+},{
+	"pid": 1812,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 1986560,
+	"working_set": 10862592,
+	"virtual_bytes": 1986560
+},{
+	"pid": 8304,
+	"path": "C:\\Windows\\System32\\RtkAudUService64.exe",
+	"exefile": "RtkAudUService64.exe",
+	"process_type": "App Process",
+	"company": "Realtek Semiconductor",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 2097152,
+	"working_set": 7028736,
+	"virtual_bytes": 2097152
+},{
+	"pid": 7800,
+	"path": "C:\\Program Files\\LGHUB\\system_tray\\lghub_system_tray.exe",
+	"exefile": "lghub_system_tray.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 66007040,
+	"working_set": 34443264,
+	"virtual_bytes": 66007040
+},{
+	"pid": 11168,
+	"path": "C:\\Program Files\\LGHUB\\lghub_agent.exe",
+	"exefile": "lghub_agent.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 130408448,
+	"working_set": 47472640,
+	"virtual_bytes": 130408448
+},{
+	"pid": 4888,
+	"path": "C:\\Program Files\\OpenVPN\\bin\\openvpn-gui.exe",
+	"exefile": "openvpn-gui.exe",
+	"process_type": "App Process",
+	"company": "OpenVPN GUI",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 2478080,
+	"working_set": 9764864,
+	"virtual_bytes": 2478080
+},{
+	"pid": 10792,
+	"path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\lync.exe",
+	"exefile": "lync.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 160522240,
+	"working_set": 109129728,
+	"virtual_bytes": 160522240
+},{
+	"pid": 10720,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2863104,
+	"working_set": 12865536,
+	"virtual_bytes": 2863104
+},{
+	"pid": 10612,
+	"path": "D:\\overwolf\\Overwolf.exe",
+	"exefile": "Overwolf.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 330051584,
+	"working_set": 235765760,
+	"virtual_bytes": 330051584
+},{
+	"pid": 10740,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 492851200,
+	"working_set": 478400512,
+	"virtual_bytes": 492851200
+},{
+	"pid": 13156,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 4476928,
+	"working_set": 13737984,
+	"virtual_bytes": 4476928
+},{
+	"pid": 13432,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 394899456,
+	"working_set": 211066880,
+	"virtual_bytes": 394899456
+},{
+	"pid": 13440,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 36388864,
+	"working_set": 63008768,
+	"virtual_bytes": 36388864
+},{
+	"pid": 13524,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 13492224,
+	"working_set": 20729856,
+	"virtual_bytes": 13492224
+},{
+	"pid": 13808,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 59158528,
+	"working_set": 84434944,
+	"virtual_bytes": 59158528
+},{
+	"pid": 13948,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 67559424,
+	"working_set": 85123072,
+	"virtual_bytes": 67559424
+},{
+	"pid": 6304,
+	"path": "D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe",
+	"exefile": "OverwolfBrowser.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 35074048,
+	"working_set": 10805248,
+	"virtual_bytes": 35074048
+},{
+	"pid": 14664,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Grammarly\\DesktopIntegrations\\Grammarly.Desktop.exe",
+	"exefile": "Grammarly.Desktop.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 314753024,
+	"working_set": 179933184,
+	"virtual_bytes": 314753024
+},{
+	"pid": 15096,
+	"path": "D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe",
+	"exefile": "OverwolfBrowser.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 707223552,
+	"working_set": 123797504,
+	"virtual_bytes": 707223552
+},{
+	"pid": 7096,
+	"path": "D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe",
+	"exefile": "OverwolfBrowser.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 49373184,
+	"working_set": 32219136,
+	"virtual_bytes": 49373184
+},{
+	"pid": 3008,
+	"path": "C:\\Program Files (x86)\\Common Files\\Overwolf\\0.258.1.7\\OverwolfHelper.exe",
+	"exefile": "OverwolfHelper.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 9461760,
+	"working_set": 20119552,
+	"virtual_bytes": 9461760
+},{
+	"pid": 6860,
+	"path": "C:\\Program Files (x86)\\Common Files\\Overwolf\\0.258.1.7\\OverwolfHelper64.exe",
+	"exefile": "OverwolfHelper64.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 9019392,
+	"working_set": 18767872,
+	"virtual_bytes": 9019392
+},{
+	"pid": 4656,
+	"path": "D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe",
+	"exefile": "OverwolfBrowser.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 38187008,
+	"working_set": 10874880,
+	"virtual_bytes": 38187008
+},{
+	"pid": 7200,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\NETWORK SERVICE",
+	"private_bytes": 8204288,
+	"working_set": 17313792,
+	"virtual_bytes": 8204288
+},{
+	"pid": 12080,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 3522560,
+	"working_set": 12898304,
+	"virtual_bytes": 3522560
+},{
+	"pid": 3624,
+	"path": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftPCManager_3.12.5.0_x64__8wekyb3d8bbwe\\PCManager\\MSPCManager.exe",
+	"exefile": "MSPCManager.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 148107264,
+	"working_set": 50585600,
+	"virtual_bytes": 148107264
+},{
+	"pid": 15272,
+	"path": "C:\\Program Files\\Cloudflare\\Cloudflare WARP\\Cloudflare WARP.exe",
+	"exefile": "Cloudflare WARP.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 86036480,
+	"working_set": 63799296,
+	"virtual_bytes": 86036480
+},{
+	"pid": 15424,
+	"path": "C:\\Program Files\\Adobe\\Adobe Creative Cloud Experience\\CCXProcess.exe",
+	"exefile": "CCXProcess.exe",
+	"process_type": "App Process",
+	"company": "Adobe Inc.",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 634880,
+	"working_set": 2236416,
+	"virtual_bytes": 634880
+},{
+	"pid": 15444,
+	"path": "C:\\Program Files\\Adobe\\Adobe Creative Cloud Experience\\libs\\node.exe",
+	"exefile": "node.exe",
+	"process_type": "App Process",
+	"company": "Node.js",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 37896192,
+	"working_set": 43819008,
+	"virtual_bytes": 37896192
+},{
+	"pid": 15452,
+	"path": "C:\\Windows\\System32\\conhost.exe",
+	"exefile": "conhost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 6520832,
+	"working_set": 5152768,
+	"virtual_bytes": 6520832
+},{
+	"pid": 15472,
+	"path": "C:\\Program Files (x86)\\Common Files\\Java\\Java Update\\jusched.exe",
+	"exefile": "jusched.exe",
+	"process_type": "App Process",
+	"company": "Oracle Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 2699264,
+	"working_set": 16732160,
+	"virtual_bytes": 2699264
+},{
+	"pid": 15896,
+	"path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+	"exefile": "RuntimeBroker.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 2469888,
+	"working_set": 9998336,
+	"virtual_bytes": 2469888
+},{
+	"pid": 16144,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1282048,
+	"working_set": 5013504,
+	"virtual_bytes": 1282048
+},{
+	"pid": 16200,
+	"path": "C:\\Program Files (x86)\\Common Files\\Adobe\\Adobe Desktop Common\\IPCBox\\AdobeIPCBroker.exe",
+	"exefile": "AdobeIPCBroker.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 2154496,
+	"working_set": 7577600,
+	"virtual_bytes": 2154496
+},{
+	"pid": 3840,
+	"path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe",
+	"exefile": "msedgewebview2.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 31428608,
+	"working_set": 59895808,
+	"virtual_bytes": 31428608
+},{
+	"pid": 12316,
+	"path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe",
+	"exefile": "msedgewebview2.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 2097152,
+	"working_set": 6275072,
+	"virtual_bytes": 2097152
+},{
+	"pid": 15432,
+	"path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe",
+	"exefile": "msedgewebview2.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 51109888,
+	"working_set": 16379904,
+	"virtual_bytes": 51109888
+},{
+	"pid": 6972,
+	"path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe",
+	"exefile": "msedgewebview2.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 10567680,
+	"working_set": 28692480,
+	"virtual_bytes": 10567680
+},{
+	"pid": 15772,
+	"path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe",
+	"exefile": "msedgewebview2.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 8052736,
+	"working_set": 16625664,
+	"virtual_bytes": 8052736
+},{
+	"pid": 15640,
+	"path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe",
+	"exefile": "msedgewebview2.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 43589632,
+	"working_set": 18182144,
+	"virtual_bytes": 43589632
+},{
+	"pid": 16616,
+	"path": "D:\\New folder\\EVKey\\EVKey64.exe",
+	"exefile": "EVKey64.exe",
+	"process_type": "System Process",
+	"company": "lamquangminh10@gmail.com",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 3772416,
+	"working_set": 24408064,
+	"virtual_bytes": 3772416
+},{
+	"pid": 17344,
+	"path": "C:\\metasploit\\postgresql\\bin\\postgres.exe",
+	"exefile": "postgres.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 4571136,
+	"working_set": 18485248,
+	"virtual_bytes": 4571136
+},{
+	"pid": 17388,
+	"path": "C:\\metasploit\\postgresql\\bin\\postgres.exe",
+	"exefile": "postgres.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 4423680,
+	"working_set": 13201408,
+	"virtual_bytes": 4423680
+},{
+	"pid": 13448,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 3239936,
+	"working_set": 12984320,
+	"virtual_bytes": 3239936
+},{
+	"pid": 16528,
+	"path": "C:\\Program Files\\Intel\\SUR\\QUEENCREEK\\x64\\esrv_svc.exe",
+	"exefile": "esrv_svc.exe",
+	"process_type": "System Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 282591232,
+	"working_set": 82722816,
+	"virtual_bytes": 282591232
+},{
+	"pid": 17132,
+	"path": "C:\\Program Files\\Microsoft SQL Server\\MSSQL16.MSSQLSERVER\\MSSQL\\Binn\\sqlservr.exe",
+	"exefile": "sqlservr.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT SERVICE\\MSSQLSERVER",
+	"private_bytes": 531841024,
+	"working_set": 109289472,
+	"virtual_bytes": 531841024
+},{
+	"pid": 15512,
+	"path": "C:\\Windows\\System32\\SgrmBroker.exe",
+	"exefile": "SgrmBroker.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 6770688,
+	"working_set": 9306112,
+	"virtual_bytes": 6770688
+},{
+	"pid": 11176,
+	"path": "C:\\Program Files\\Microsoft SQL Server\\MSSQL16.MSSQLSERVER\\MSSQL\\Binn\\sqlceip.exe",
+	"exefile": "sqlceip.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT SERVICE\\SQLTELEMETRY",
+	"private_bytes": 44613632,
+	"working_set": 49872896,
+	"virtual_bytes": 44613632
+},{
+	"pid": 13456,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 3121152,
+	"working_set": 10268672,
+	"virtual_bytes": 3121152
+},{
+	"pid": 2440,
+	"path": "C:\\Windows\\System32\\cmd.exe",
+	"exefile": "cmd.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2387968,
+	"working_set": 3862528,
+	"virtual_bytes": 2387968
+},{
+	"pid": 3628,
+	"path": "C:\\Windows\\System32\\conhost.exe",
+	"exefile": "conhost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 6918144,
+	"working_set": 8888320,
+	"virtual_bytes": 6918144
+},{
+	"pid": 8108,
+	"path": "C:\\metasploit\\nginx\\sbin\\nginxr7.exe",
+	"exefile": "nginxr7.exe",
+	"process_type": "App Process",
+	"company": "Failed to get version info size",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1638400,
+	"working_set": 7831552,
+	"virtual_bytes": 1638400
+},{
+	"pid": 2128,
+	"path": "C:\\metasploit\\nginx\\sbin\\nginxr7.exe",
+	"exefile": "nginxr7.exe",
+	"process_type": "App Process",
+	"company": "Failed to get version info size",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2064384,
+	"working_set": 8089600,
+	"virtual_bytes": 2064384
+},{
+	"pid": 6424,
+	"path": "C:\\Windows\\System32\\conhost.exe",
+	"exefile": "conhost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 6422528,
+	"working_set": 5750784,
+	"virtual_bytes": 6422528
+},{
+	"pid": 16560,
+	"path": "C:\\Windows\\System32\\SecurityHealthService.exe",
+	"exefile": "SecurityHealthService.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 3416064,
+	"working_set": 11423744,
+	"virtual_bytes": 3416064
+},{
+	"pid": 10840,
+	"path": "C:\\metasploit\\postgresql\\bin\\postgres.exe",
+	"exefile": "postgres.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 30117888,
+	"working_set": 20406272,
+	"virtual_bytes": 30117888
+},{
+	"pid": 8472,
+	"path": "C:\\Windows\\System32\\conhost.exe",
+	"exefile": "conhost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 6533120,
+	"working_set": 6496256,
+	"virtual_bytes": 6533120
+},{
+	"pid": 12628,
+	"path": "C:\\Program Files\\Intel\\SUR\\QUEENCREEK\\x64\\esrv.exe",
+	"exefile": "esrv.exe",
+	"process_type": "System Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 179675136,
+	"working_set": 53678080,
+	"virtual_bytes": 179675136
+},{
+	"pid": 9820,
+	"path": "C:\\Program Files (x86)\\Common Files\\Java\\Java Update\\jucheck.exe",
+	"exefile": "jucheck.exe",
+	"process_type": "App Process",
+	"company": "Oracle Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 3502080,
+	"working_set": 15855616,
+	"virtual_bytes": 3502080
+},{
+	"pid": 16900,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 11079680,
+	"working_set": 17334272,
+	"virtual_bytes": 11079680
+},{
+	"pid": 17312,
+	"path": "C:\\Program Files\\Microsoft OneDrive\\24.166.0818.0003\\Microsoft.SharePoint.exe",
+	"exefile": "Microsoft.SharePoint.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 27328512,
+	"working_set": 8687616,
+	"virtual_bytes": 27328512
+},{
+	"pid": 12608,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 3969024,
+	"working_set": 14778368,
+	"virtual_bytes": 3969024
+},{
+	"pid": 12588,
+	"path": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe",
+	"exefile": "UserOOBEBroker.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 2240512,
+	"working_set": 10076160,
+	"virtual_bytes": 2240512
+},{
+	"pid": 5188,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 6828032,
+	"working_set": 9895936,
+	"virtual_bytes": 6828032
+},{
+	"pid": 17260,
+	"path": "C:\\Windows\\System32\\dllhost.exe",
+	"exefile": "dllhost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 9236480,
+	"working_set": 17817600,
+	"virtual_bytes": 9236480
+},{
+	"pid": 1244,
+	"path": "D:\\Riot Games\\Riot Client\\RiotClientServices.exe",
+	"exefile": "RiotClientServices.exe",
+	"process_type": "App Process",
+	"company": "Riot Games, Inc.",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 333185024,
+	"working_set": 139423744,
+	"virtual_bytes": 333185024
+},{
+	"pid": 13308,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 61018112,
+	"working_set": 72871936,
+	"virtual_bytes": 61018112
+},{
+	"pid": 2076,
+	"path": "D:\\Riot Games\\Riot Client\\RiotClientCrashHandler.exe",
+	"exefile": "RiotClientCrashHandler.exe",
+	"process_type": "App Process",
+	"company": "Failed to get version info size",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 1458176,
+	"working_set": 5648384,
+	"virtual_bytes": 1458176
+},{
+	"pid": 2952,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 776273920,
+	"working_set": 644702208,
+	"virtual_bytes": 776273920
+},{
+	"pid": 9028,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 79241216,
+	"working_set": 99127296,
+	"virtual_bytes": 79241216
+},{
+	"pid": 9256,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 811008000,
+	"working_set": 762540032,
+	"virtual_bytes": 811008000
+},{
+	"pid": 15088,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 1237389312,
+	"working_set": 1085194240,
+	"virtual_bytes": 1237389312
+},{
+	"pid": 9516,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 253411328,
+	"working_set": 190353408,
+	"virtual_bytes": 253411328
+},{
+	"pid": 9112,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 155574272,
+	"working_set": 131534848,
+	"virtual_bytes": 155574272
+},{
+	"pid": 11184,
+	"path": "D:\\Riot Games\\Riot Client\\RiotClientElectron\\Riot Client.exe",
+	"exefile": "Riot Client.exe",
+	"process_type": "App Process",
+	"company": "Riot Games, Inc.",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 57102336,
+	"working_set": 64823296,
+	"virtual_bytes": 57102336
+},{
+	"pid": 6928,
+	"path": "D:\\Riot Games\\Riot Client\\RiotClientElectron\\Riot Client.exe",
+	"exefile": "Riot Client.exe",
+	"process_type": "App Process",
+	"company": "Riot Games, Inc.",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 11583488,
+	"working_set": 23568384,
+	"virtual_bytes": 11583488
+},{
+	"pid": 5916,
+	"path": "D:\\Riot Games\\Riot Client\\RiotClientElectron\\Riot Client.exe",
+	"exefile": "Riot Client.exe",
+	"process_type": "App Process",
+	"company": "Riot Games, Inc.",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 71081984,
+	"working_set": 50216960,
+	"virtual_bytes": 71081984
+},{
+	"pid": 11456,
+	"path": "D:\\Riot Games\\Riot Client\\RiotClientElectron\\Riot Client.exe",
+	"exefile": "Riot Client.exe",
+	"process_type": "App Process",
+	"company": "Riot Games, Inc.",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 16211968,
+	"working_set": 44253184,
+	"virtual_bytes": 16211968
+},{
+	"pid": 9052,
+	"path": "D:\\Riot Games\\Riot Client\\RiotClientElectron\\Riot Client.exe",
+	"exefile": "Riot Client.exe",
+	"process_type": "Background Process",
+	"company": "Riot Games, Inc.",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 72359936,
+	"working_set": 123629568,
+	"virtual_bytes": 72359936
+},{
+	"pid": 13748,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 8445952,
+	"working_set": 24711168,
+	"virtual_bytes": 8445952
+},{
+	"pid": 17568,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 9371648,
+	"working_set": 21676032,
+	"virtual_bytes": 9371648
+},{
+	"pid": 17604,
+	"path": "C:\\Windows\\System32\\CompPkgSrv.exe",
+	"exefile": "CompPkgSrv.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 1560576,
+	"working_set": 8228864,
+	"virtual_bytes": 1560576
+},{
+	"pid": 13660,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Overwolf\\ProcessCache\\0.258.1.7\\aheglebeeekjdnkljmpngplhpedgejncjhojnndh\\MetaTFT.exe",
+	"exefile": "MetaTFT.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 692142080,
+	"working_set": 735731712,
+	"virtual_bytes": 692142080
+},{
+	"pid": 20304,
+	"path": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe",
+	"exefile": "ShellExperienceHost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 50237440,
+	"working_set": 61734912,
+	"virtual_bytes": 50237440
+},{
+	"pid": 17268,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 242262016,
+	"working_set": 190308352,
+	"virtual_bytes": 242262016
+},{
+	"pid": 17840,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 103079936,
+	"working_set": 87576576,
+	"virtual_bytes": 103079936
+},{
+	"pid": 16424,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 106258432,
+	"working_set": 88403968,
+	"virtual_bytes": 106258432
+},{
+	"pid": 18100,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 2707456,
+	"working_set": 9388032,
+	"virtual_bytes": 2707456
+},{
+	"pid": 17420,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 158429184,
+	"working_set": 121499648,
+	"virtual_bytes": 158429184
+},{
+	"pid": 18128,
+	"path": "C:\\Windows\\System32\\dllhost.exe",
+	"exefile": "dllhost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 1474560,
+	"working_set": 7143424,
+	"virtual_bytes": 1474560
+},{
+	"pid": 21756,
+	"path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+	"exefile": "RuntimeBroker.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 4206592,
+	"working_set": 22892544,
+	"virtual_bytes": 4206592
+},{
+	"pid": 19688,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 2740224,
+	"working_set": 13942784,
+	"virtual_bytes": 2740224
+},{
+	"pid": 22516,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 215560192,
+	"working_set": 172183552,
+	"virtual_bytes": 215560192
+},{
+	"pid": 1544,
+	"path": "C:\\Windows\\System32\\audiodg.exe",
+	"exefile": "audiodg.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 7995392,
+	"working_set": 13766656,
+	"virtual_bytes": 7995392
+},{
+	"pid": 5340,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\LOCAL SERVICE",
+	"private_bytes": 1318912,
+	"working_set": 5783552,
+	"virtual_bytes": 1318912
+},{
+	"pid": 9252,
+	"path": "C:\\Windows\\System32\\wbem\\unsecapp.exe",
+	"exefile": "unsecapp.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 2007040,
+	"working_set": 9007104,
+	"virtual_bytes": 2007040
+},{
+	"pid": 18968,
+	"path": "C:\\Program Files\\LGHUB\\logi_crashpad_handler.exe",
+	"exefile": "logi_crashpad_handler.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 1503232,
+	"working_set": 5861376,
+	"virtual_bytes": 1503232
+},{
+	"pid": 21360,
+	"path": "C:\\Program Files\\LGHUB\\logi_crashpad_handler.exe",
+	"exefile": "logi_crashpad_handler.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1351680,
+	"working_set": 4780032,
+	"virtual_bytes": 1351680
+},{
+	"pid": 19908,
+	"path": "C:\\Windows\\System32\\taskhostw.exe",
+	"exefile": "taskhostw.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 1556480,
+	"working_set": 7327744,
+	"virtual_bytes": 1556480
+},{
+	"pid": 19108,
+	"path": "D:\\Riot Games\\League of Legends\\LeagueClient.exe",
+	"exefile": "LeagueClient.exe",
+	"process_type": "App Process",
+	"company": "Riot Games, Inc.",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 470999040,
+	"working_set": 279728128,
+	"virtual_bytes": 470999040
+},{
+	"pid": 22124,
+	"path": "D:\\Riot Games\\League of Legends\\LeagueCrashHandler64.exe",
+	"exefile": "LeagueCrashHandler64.exe",
+	"process_type": "App Process",
+	"company": "Failed to get version info size",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 1863680,
+	"working_set": 9027584,
+	"virtual_bytes": 1863680
+},{
+	"pid": 12784,
+	"path": "D:\\Riot Games\\League of Legends\\LeagueClientUx.exe",
+	"exefile": "LeagueClientUx.exe",
+	"process_type": "App Process",
+	"company": "Riot Games, Inc.",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 77000704,
+	"working_set": 74874880,
+	"virtual_bytes": 77000704
+},{
+	"pid": 9996,
+	"path": "D:\\Riot Games\\League of Legends\\LeagueClientUxRender.exe",
+	"exefile": "LeagueClientUxRender.exe",
+	"process_type": "App Process",
+	"company": "Riot Games, Inc.",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 288792576,
+	"working_set": 185204736,
+	"virtual_bytes": 288792576
+},{
+	"pid": 19120,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 147439616,
+	"working_set": 131371008,
+	"virtual_bytes": 147439616
+},{
+	"pid": 11088,
+	"path": "D:\\Riot Games\\League of Legends\\LeagueClientUxRender.exe",
+	"exefile": "LeagueClientUxRender.exe",
+	"process_type": "App Process",
+	"company": "Riot Games, Inc.",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 16695296,
+	"working_set": 30916608,
+	"virtual_bytes": 16695296
+},{
+	"pid": 572,
+	"path": "D:\\Riot Games\\League of Legends\\LeagueClientUxRender.exe",
+	"exefile": "LeagueClientUxRender.exe",
+	"process_type": "App Process",
+	"company": "Riot Games, Inc.",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 488280064,
+	"working_set": 468758528,
+	"virtual_bytes": 488280064
+},{
+	"pid": 1408,
+	"path": "D:\\Riot Games\\League of Legends\\LeagueClientUxRender.exe",
+	"exefile": "LeagueClientUxRender.exe",
+	"process_type": "App Process",
+	"company": "Riot Games, Inc.",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 8474624,
+	"working_set": 24039424,
+	"virtual_bytes": 8474624
+},{
+	"pid": 12596,
+	"path": "C:\\Program Files\\Riot Vanguard\\vgc.exe",
+	"exefile": "vgc.exe",
+	"process_type": "App Process",
+	"company": "Riot Games, Inc.",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 21614592,
+	"working_set": 42143744,
+	"virtual_bytes": 21614592
+},{
+	"pid": 9748,
+	"path": "D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe",
+	"exefile": "OverwolfBrowser.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 74940416,
+	"working_set": 50663424,
+	"virtual_bytes": 74940416
+},{
+	"pid": 22556,
+	"path": "D:\\Riot Games\\League of Legends\\LeagueClientUxRender.exe",
+	"exefile": "LeagueClientUxRender.exe",
+	"process_type": "Background Process",
+	"company": "Riot Games, Inc.",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 13381632,
+	"working_set": 24567808,
+	"virtual_bytes": 13381632
+},{
+	"pid": 2124,
+	"path": "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe",
+	"exefile": "SearchApp.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 64356352,
+	"working_set": 69087232,
+	"virtual_bytes": 64356352
+},{
+	"pid": 21244,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\devenv.exe",
+	"exefile": "devenv.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 627044352,
+	"working_set": 544526336,
+	"virtual_bytes": 627044352
+},{
+	"pid": 4852,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\controller\\Microsoft.ServiceHub.Controller.exe",
+	"exefile": "Microsoft.ServiceHub.Controller.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 94244864,
+	"working_set": 64745472,
+	"virtual_bytes": 94244864
+},{
+	"pid": 2184,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.netfx.x86\\ServiceHub.IdentityHost.exe",
+	"exefile": "ServiceHub.IdentityHost.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 62476288,
+	"working_set": 63516672,
+	"virtual_bytes": 62476288
+},{
+	"pid": 6956,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.VSDetouredHost.exe",
+	"exefile": "ServiceHub.VSDetouredHost.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 178737152,
+	"working_set": 67371008,
+	"virtual_bytes": 178737152
+},{
+	"pid": 9572,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.Dotnet.x64\\ServiceHub.IndexingService.exe",
+	"exefile": "ServiceHub.IndexingService.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 18067456,
+	"working_set": 46997504,
+	"virtual_bytes": 18067456
+},{
+	"pid": 5436,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.ThreadedWaitDialog.exe",
+	"exefile": "ServiceHub.ThreadedWaitDialog.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 111697920,
+	"working_set": 70959104,
+	"virtual_bytes": 111697920
+},{
+	"pid": 10516,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.netfx.x86\\ServiceHub.Host.netfx.x86.exe",
+	"exefile": "ServiceHub.Host.netfx.x86.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 53260288,
+	"working_set": 49946624,
+	"virtual_bytes": 53260288
+},{
+	"pid": 19884,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.SettingsHost.exe",
+	"exefile": "ServiceHub.SettingsHost.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 174211072,
+	"working_set": 61460480,
+	"virtual_bytes": 174211072
+},{
+	"pid": 23232,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.netfx.x64\\ServiceHub.IntellicodeModelService.exe",
+	"exefile": "ServiceHub.IntellicodeModelService.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 82010112,
+	"working_set": 39342080,
+	"virtual_bytes": 82010112
+},{
+	"pid": 17824,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\vshost.exe",
+	"exefile": "vshost.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 385024,
+	"working_set": 1499136,
+	"virtual_bytes": 385024
+},{
+	"pid": 17040,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.Host.AnyCPU.exe",
+	"exefile": "ServiceHub.Host.AnyCPU.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 291237888,
+	"working_set": 81944576,
+	"virtual_bytes": 291237888
+},{
+	"pid": 6964,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.TestWindowStoreHost.exe",
+	"exefile": "ServiceHub.TestWindowStoreHost.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 93814784,
+	"working_set": 56643584,
+	"virtual_bytes": 93814784
+},{
+	"pid": 17504,
+	"path": "C:\\Windows\\System32\\prevhost.exe",
+	"exefile": "prevhost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 2170880,
+	"working_set": 14868480,
+	"virtual_bytes": 2170880
+},{
+	"pid": 20832,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 351076352,
+	"working_set": 263897088,
+	"virtual_bytes": 351076352
+},{
+	"pid": 21236,
+	"path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+	"exefile": "RuntimeBroker.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 2420736,
+	"working_set": 10551296,
+	"virtual_bytes": 2420736
+},{
+	"pid": 6984,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 148267008,
+	"working_set": 124403712,
+	"virtual_bytes": 148267008
+},{
+	"pid": 9420,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 59252736,
+	"working_set": 96804864,
+	"virtual_bytes": 59252736
+},{
+	"pid": 5264,
+	"path": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+	"exefile": "StartMenuExperienceHost.exe",
+	"process_type": "App Process",
+	"company": "Failed to get version info size",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 25886720,
+	"working_set": 72269824,
+	"virtual_bytes": 25886720
+},{
+	"pid": 13756,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\vcpackages\\x86\\vcpkgsrv.exe",
+	"exefile": "vcpkgsrv.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 13967360,
+	"working_set": 11603968,
+	"virtual_bytes": 13967360
+},{
+	"pid": 23008,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\vcpackages\\x86\\vcpkgsrv.exe",
+	"exefile": "vcpkgsrv.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 334290944,
+	"working_set": 231616512,
+	"virtual_bytes": 334290944
+},{
+	"pid": 11328,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 195272704,
+	"working_set": 132616192,
+	"virtual_bytes": 195272704
+},{
+	"pid": 19368,
+	"path": "D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe",
+	"exefile": "OverwolfBrowser.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 35921920,
+	"working_set": 8577024,
+	"virtual_bytes": 35921920
+},{
+	"pid": 16788,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 123617280,
+	"working_set": 98406400,
+	"virtual_bytes": 123617280
+},{
+	"pid": 20676,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 145879040,
+	"working_set": 124444672,
+	"virtual_bytes": 145879040
+},{
+	"pid": 24396,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 3731456,
+	"working_set": 13385728,
+	"virtual_bytes": 3731456
+},{
+	"pid": 2096,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 58286080,
+	"working_set": 45912064,
+	"virtual_bytes": 58286080
+},{
+	"pid": 10872,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 236740608,
+	"working_set": 288321536,
+	"virtual_bytes": 236740608
+},{
+	"pid": 10224,
+	"path": "C:\\Windows\\System32\\SearchProtocolHost.exe",
+	"exefile": "SearchProtocolHost.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 3764224,
+	"working_set": 16334848,
+	"virtual_bytes": 3764224
+},{
+	"pid": 9988,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 320000000,
+	"working_set": 387428352,
+	"virtual_bytes": 320000000
+},{
+	"pid": 24320,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\MSBuild.exe",
+	"exefile": "MSBuild.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 51945472,
+	"working_set": 63111168,
+	"virtual_bytes": 51945472
+},{
+	"pid": 17220,
+	"path": "C:\\Windows\\System32\\conhost.exe",
+	"exefile": "conhost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 6512640,
+	"working_set": 11923456,
+	"virtual_bytes": 6512640
+},{
+	"pid": 22048,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\MSBuild.exe",
+	"exefile": "MSBuild.exe",
+	"process_type": "App Process",
+	"company": "Company name not found",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 45453312,
+	"working_set": 52113408,
+	"virtual_bytes": 45453312
+},{
+	"pid": 19888,
+	"path": "C:\\Windows\\System32\\conhost.exe",
+	"exefile": "conhost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 6508544,
+	"working_set": 11911168,
+	"virtual_bytes": 6508544
+},{
+	"pid": 9688,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\vctip.exe",
+	"exefile": "vctip.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 35385344,
+	"working_set": 50999296,
+	"virtual_bytes": 35385344
+},{
+	"pid": 22612,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 15761408,
+	"working_set": 31215616,
+	"virtual_bytes": 15761408
+},{
+	"pid": 22484,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 57851904,
+	"working_set": 80973824,
+	"virtual_bytes": 57851904
+},{
+	"pid": 8012,
+	"path": "C:\\Windows\\System32\\smartscreen.exe",
+	"exefile": "smartscreen.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 8179712,
+	"working_set": 24166400,
+	"virtual_bytes": 8179712
+},{
+	"pid": 14804,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+	"exefile": "Code.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 101806080,
+	"working_set": 131248128,
+	"virtual_bytes": 101806080
+},{
+	"pid": 9712,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+	"exefile": "Code.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 14729216,
+	"working_set": 27840512,
+	"virtual_bytes": 14729216
+},{
+	"pid": 11776,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+	"exefile": "Code.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 165965824,
+	"working_set": 102936576,
+	"virtual_bytes": 165965824
+},{
+	"pid": 23708,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+	"exefile": "Code.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 17100800,
+	"working_set": 40411136,
+	"virtual_bytes": 17100800
+},{
+	"pid": 18752,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+	"exefile": "Code.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 550621184,
+	"working_set": 569176064,
+	"virtual_bytes": 550621184
+},{
+	"pid": 21008,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+	"exefile": "Code.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 222195712,
+	"working_set": 233484288,
+	"virtual_bytes": 222195712
+},{
+	"pid": 18240,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+	"exefile": "Code.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 97284096,
+	"working_set": 122957824,
+	"virtual_bytes": 97284096
+},{
+	"pid": 4308,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+	"exefile": "Code.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 66068480,
+	"working_set": 90574848,
+	"virtual_bytes": 66068480
+},{
+	"pid": 20664,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+	"exefile": "Code.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 84201472,
+	"working_set": 104427520,
+	"virtual_bytes": 84201472
+},{
+	"pid": 21928,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+	"exefile": "Code.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 102924288,
+	"working_set": 162897920,
+	"virtual_bytes": 102924288
+},{
+	"pid": 19380,
+	"path": "C:\\Windows\\System32\\conhost.exe",
+	"exefile": "conhost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 1388544,
+	"working_set": 6959104,
+	"virtual_bytes": 1388544
+},{
+	"pid": 264,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+	"exefile": "Code.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 53919744,
+	"working_set": 114569216,
+	"virtual_bytes": 53919744
+},{
+	"pid": 18216,
+	"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+	"exefile": "powershell.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 82747392,
+	"working_set": 98672640,
+	"virtual_bytes": 82747392
+},{
+	"pid": 17096,
+	"path": "C:\\Users\\buing\\go\\bin\\gopls.exe",
+	"exefile": "gopls.exe",
+	"process_type": "App Process",
+	"company": "Failed to get version info size",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 108244992,
+	"working_set": 107364352,
+	"virtual_bytes": 108244992
+},{
+	"pid": 18768,
+	"path": "C:\\Windows\\System32\\conhost.exe",
+	"exefile": "conhost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 6492160,
+	"working_set": 11776000,
+	"virtual_bytes": 6492160
+},{
+	"pid": 24108,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+	"exefile": "Code.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 54091776,
+	"working_set": 116412416,
+	"virtual_bytes": 54091776
+},{
+	"pid": 1928,
+	"path": "C:\\Users\\buing\\go\\bin\\gopls.exe",
+	"exefile": "gopls.exe",
+	"process_type": "App Process",
+	"company": "Failed to get version info size",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 20803584,
+	"working_set": 16666624,
+	"virtual_bytes": 20803584
+},{
+	"pid": 19892,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+	"exefile": "Code.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 68251648,
+	"working_set": 99450880,
+	"virtual_bytes": 68251648
+},{
+	"pid": 18064,
+	"path": "C:\\Program Files\\Go\\bin\\go.exe",
+	"exefile": "go.exe",
+	"process_type": "App Process",
+	"company": "Failed to get version info size",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 30998528,
+	"working_set": 28151808,
+	"virtual_bytes": 30998528
+},{
+	"pid": 18496,
+	"path": "C:\\Windows\\System32\\RuntimeBroker.exe",
+	"exefile": "RuntimeBroker.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 3743744,
+	"working_set": 16498688,
+	"virtual_bytes": 3743744
+},{
+	"pid": 20212,
+	"path": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.20.11781.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe",
+	"exefile": "WindowsTerminal.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 83451904,
+	"working_set": 97996800,
+	"virtual_bytes": 83451904
+},{
+	"pid": 22376,
+	"path": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.20.11781.0_x64__8wekyb3d8bbwe\\OpenConsole.exe",
+	"exefile": "OpenConsole.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 2244608,
+	"working_set": 9506816,
+	"virtual_bytes": 2244608
+},{
+	"pid": 21996,
+	"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+	"exefile": "powershell.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 64954368,
+	"working_set": 79302656,
+	"virtual_bytes": 64954368
+},{
+	"pid": 4040,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1884160,
+	"working_set": 7897088,
+	"virtual_bytes": 1884160
+},{
+	"pid": 11220,
+	"path": "C:\\Users\\buing\\AppData\\Local\\Temp\\go-build2721334680\\b001\\exe\\main.exe",
+	"exefile": "main.exe",
+	"process_type": "App Process",
+	"company": "Failed to get version info size",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 20062208,
+	"working_set": 21364736,
+	"virtual_bytes": 20062208
+},{
+	"pid": 22708,
+	"path": "C:\\Windows\\System32\\svchost.exe",
+	"exefile": "svchost.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 2949120,
+	"working_set": 12668928,
+	"virtual_bytes": 2949120
+},{
+	"pid": 23816,
+	"path": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.20.11781.0_x64__8wekyb3d8bbwe\\OpenConsole.exe",
+	"exefile": "OpenConsole.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 2220032,
+	"working_set": 9498624,
+	"virtual_bytes": 2220032
+},{
+	"pid": 22168,
+	"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+	"exefile": "powershell.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 64860160,
+	"working_set": 79519744,
+	"virtual_bytes": 64860160
+},{
+	"pid": 22224,
+	"path": "C:\\Windows\\System32\\SearchFilterHost.exe",
+	"exefile": "SearchFilterHost.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\SYSTEM",
+	"private_bytes": 1556480,
+	"working_set": 7929856,
+	"virtual_bytes": 1556480
+},{
+	"pid": 5140,
+	"path": "C:\\Windows\\SysWOW64\\wbem\\WmiPrvSE.exe",
+	"exefile": "WmiPrvSE.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "NT AUTHORITY\\NETWORK SERVICE",
+	"private_bytes": 6709248,
+	"working_set": 16560128,
+	"virtual_bytes": 6709248
+},{
+	"pid": 20964,
+	"path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\vcpackages\\x86\\vcpkgsrv.exe",
+	"exefile": "vcpkgsrv.exe",
+	"process_type": "App Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 378650624,
+	"working_set": 380829696,
+	"virtual_bytes": 378650624
+},{
+	"pid": 3848,
+	"path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+	"exefile": "msedge.exe",
+	"process_type": "Background Process",
+	"company": "Microsoft Corporation",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 20893696,
+	"working_set": 39829504,
+	"virtual_bytes": 20893696
+},{
+	"pid": 20500,
+	"path": "C:\\Users\\buing\\source\\repos\\WinGRPC\\x64\\Release\\SystemInfo.exe",
+	"exefile": "SystemInfo.exe",
+	"process_type": "App Process",
+	"company": "Failed to get version info size",
+	"username": "DESKTOP-NN4L72S\\buing",
+	"private_bytes": 4308992,
+	"working_set": 10108928,
+	"virtual_bytes": 4308992
+}]

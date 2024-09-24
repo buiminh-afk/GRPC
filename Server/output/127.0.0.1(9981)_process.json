@@ -1,0 +1,4237 @@
+[{"opcode": 3,"opcode_name": "DCStart","pid": 0,"ppid": 0,"cmd_line": ""},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4,
+	"ppid": 0,
+	"cmd_line": ""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 124,
+	"ppid": 4,
+	"cmd_line": ""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 444,
+	"ppid": 4,
+	"cmd_line": "\\SystemRoot\\System32\\smss.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 672,
+	"ppid": 528,
+	"cmd_line": "%SystemRoot%\\system32\\csrss.exe ObjectDirectory=\\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 768,
+	"ppid": 528,
+	"cmd_line": "wininit.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 776,
+	"ppid": 756,
+	"cmd_line": "%SystemRoot%\\system32\\csrss.exe ObjectDirectory=\\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 840,
+	"ppid": 768,
+	"cmd_line": "C:\\WINDOWS\\system32\\services.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 852,
+	"ppid": 768,
+	"cmd_line": "C:\\WINDOWS\\system32\\lsass.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 936,
+	"ppid": 756,
+	"cmd_line": "winlogon.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 480,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k DcomLaunch -p"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 696,
+	"ppid": 768,
+	"cmd_line": "\"fontdrvhost.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 532,
+	"ppid": 936,
+	"cmd_line": "\"fontdrvhost.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1048,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k RPCSS -p"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1104,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k DcomLaunch -p -s LSM"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1256,
+	"ppid": 936,
+	"cmd_line": "\"dwm.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1300,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1336,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s NcbService"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1344,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p -s TimeBrokerSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1484,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p -s hidserv"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1536,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s Schedule"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1576,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s nsi"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1596,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s ProfSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1784,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s UserManager"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1792,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p -s Dhcp"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1964,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k NetworkService -p -s NlaSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2036,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNoNetwork -p"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2084,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalService -p -s netprofm"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2100,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k appmodel -p -s camsvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2216,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nv_dispsig.inf_amd64_441c71b9228d91a3\\Display.NvContainer\\NVDisplay.Container.exe -s NVDisplay.ContainerLocalSystem -f C:\\ProgramData\\NVIDIA\\NVDisplay.ContainerLocalSystem.log -l 3 -d C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nv_dispsig.inf_amd64_441c71b9228d91a3\\Display.NvContainer\\plugins\\LocalSystem -r -p 30000 -cfg NVDisplay.ContainerLocalSystem\\LocalSystem /ert"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2252,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k appmodel -p -s StateRepository"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2260,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s DispBrokerDesktopSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2328,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p -s WinHttpAutoProxySvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2392,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s EventSystem"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2400,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs -p -s Themes"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2408,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p -s SysMain"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2452,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k NetSvcs -p -s hns"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2568,
+	"ppid": 4,
+	"cmd_line": ""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2580,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k NetworkService -p -s Dnscache"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2632,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s SENS"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2700,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s AudioEndpointBuilder"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2712,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s FontCache"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2820,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k NetSvcs -s nvagent"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2924,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNoNetworkFirewall -p"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2992,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs -p -s SharedAccess"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2764,
+	"ppid": 2216,
+	"cmd_line": "\"C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nv_dispsig.inf_amd64_441c71b9228d91a3\\Display.NvContainer\\NVDisplay.Container.exe\" -f %ProgramData%\\NVIDIA\\DisplaySessionContainer%d.log -d C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nv_dispsig.inf_amd64_441c71b9228d91a3\\Display.NvContainer\\plugins\\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\\Session /ert -c"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 3020,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 3096,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s Winmgmt"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 3356,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k NetSvcs -p -s iphlpsvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 3580,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 3596,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 3656,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs -p -s ShellHWDetection"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 3968,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\spoolsv.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4008,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\system32\\wbem\\wmiprvse.exe -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4016,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\system32\\wbem\\wmiprvse.exe -secured -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 3604,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k NetworkService -p -s LanmanWorkstation"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4100,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNoNetwork -p -s DPS"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4108,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k AzureAttestService -s AzureAttestService"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4116,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k utcsvc -p"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4128,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k NetworkService -p -s CryptSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4136,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSAService.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4152,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s IKEEXT"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4176,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\dal.inf_amd64_af50fdb80983f7bc\\jhi_service.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4184,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p -s DeviceAssociationService"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4204,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSAUpdateService.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4216,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\LGHUB\\lghub_updater.exe\" --run-as-service"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4280,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Common Files\\Foxit\\Foxit PDF Reader\\FoxitPDFReaderUpdateService.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4288,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s SstpSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4296,
+	"ppid": 840,
+	"cmd_line": "\"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.24080.9-0\\MpDefenderCoreService.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4312,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\OpenVPN\\bin\\openvpnserv2.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4324,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\OpenVPN\\bin\\openvpnserv.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4332,
+	"ppid": 840,
+	"cmd_line": "C:\\metasploit\\ruby\\bin\\ruby.exe -C \"C:\\metasploit\\apps\\pro\\ui\" worker_service.rb"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4348,
+	"ppid": 840,
+	"cmd_line": "C:\\metasploit\\ruby\\bin\\ruby.exe -C \"C:\\metasploit\\apps\\pro\\engine\" prosvc_service.rb -E production"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4340,
+	"ppid": 840,
+	"cmd_line": "C:\\metasploit\\ruby\\bin\\ruby.exe -C \"C:\\metasploit\\apps\\pro\\ui\" thin_service.rb"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4372,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe\" /service"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4380,
+	"ppid": 840,
+	"cmd_line": "\"C:\\metasploit\\postgresql\\bin\\pg_ctl.exe\" runservice -N \"metasploitPostgreSQL\" -D \"C:\\metasploit\\postgresql\\data\" -w"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4388,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\iaahcic.inf_amd64_3de4831720bb2934\\RstMwService.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4404,
+	"ppid": 840,
+	"cmd_line": "\"C:\\WINDOWS\\System32\\RtkAudUService64.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4412,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k imgsvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4428,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Microsoft SQL Server\\90\\Shared\\sqlwriter.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4448,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Intel\\SUR\\QUEENCREEK\\SurSvc.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4472,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s TrkWks"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4492,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s WpnService"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4500,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\mewmiprov.inf_amd64_d51901c26227fb29\\WMIRegistrationService.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4508,
+	"ppid": 840,
+	"cmd_line": "\"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.24080.9-0\\MsMpEng.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4516,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\TeamViewer\\TeamViewer_Service.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4732,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalService -p -s WdiServiceHost"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4836,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k NetworkService -p -s TapiSrv"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5052,
+	"ppid": 4184,
+	"cmd_line": "dashost.exe {6ffa8ddd-8597-4aea-a555cee7d477196c}"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5124,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s LanmanServer"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5228,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5484,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5500,
+	"ppid": 1784,
+	"cmd_line": "sihost.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5520,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k UnistackSvcGroup -s CDPUserSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5668,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k UnistackSvcGroup -s WpnUserService"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5836,
+	"ppid": 4380,
+	"cmd_line": "\"C:\\metasploit\\postgresql\\bin\\postgres.exe\" -D \"C:\\metasploit\\postgresql\\data\" "
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5872,
+	"ppid": 5836,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5516,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s TokenBroker"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 6536,
+	"ppid": 1536,
+	"cmd_line": "taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 6572,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p -s SSDPSRV"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 6580,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k NetworkServiceNetworkRestricted -p -s PolicyAgent"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 6808,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Cloudflare\\Cloudflare WARP\\warp-svc.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 7088,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s TabletInputService"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 6328,
+	"ppid": 7088,
+	"cmd_line": "\"ctfmon.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 7424,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forklog\" \"5484\" \"5496\" \"0\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 7484,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\system32\\DllHost.exe /Processid:{3EB3C877-1F16-487C-9050-104DBCD66683}"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 7744,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkboot\" \"5428\" \"-x4\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 7756,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkboot\" \"5472\" \"-x3\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 7764,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkboot\" \"5424\" \"-x5\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 7772,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkavlauncher\" \"5416\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 7784,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkcol\" \"5400\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 7792,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkbgworker=0\" \"5388\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 8080,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s LxssManager"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 8128,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftPCManager_3.12.5.0_x64__8wekyb3d8bbwe\\PCManager\\MSPCManagerService.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 7284,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\SearchIndexer.exe /Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 7836,
+	"ppid": 7292,
+	"cmd_line": "C:\\WINDOWS\\Explorer.EXE"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 8316,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s CDPSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 8524,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -s RmSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 8920,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p -s NgcSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9004,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p -s NgcCtnrSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 8268,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9056,
+	"ppid": 4116,
+	"cmd_line": "AggregatorHost.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 6024,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p -s FDResPub"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 8960,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 10176,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 10292,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s UsoSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 10364,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\mousocoreworker.exe -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 10436,
+	"ppid": 480,
+	"cmd_line": "\"C:\\WINDOWS\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe\" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 11048,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s lfsvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 11516,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 12212,
+	"ppid": 840,
+	"cmd_line": "\"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.24080.9-0\\NisSrv.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 12076,
+	"ppid": 480,
+	"cmd_line": "\"C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe\" -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 11860,
+	"ppid": 4136,
+	"cmd_line": "\"C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSATray.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 7156,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p -s PcaSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 3396,
+	"ppid": 480,
+	"cmd_line": "\"C:\\WINDOWS\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy\\LockApp.exe\" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 11512,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1812,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s BthAvctpSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 8304,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Windows\\System32\\RtkAudUService64.exe\" -background"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 7800,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files\\LGHUB\\system_tray\\lghub_system_tray.exe\" --minimized"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 11168,
+	"ppid": 7800,
+	"cmd_line": "\"C:\\Program Files\\LGHUB\\lghub_agent.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4888,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files\\OpenVPN\\bin\\openvpn-gui.exe  "
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 10792,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\lync.exe\" /fromrunkey"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 10720,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s Appinfo"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 10612,
+	"ppid": 9484,
+	"cmd_line": "\"D:\\overwolf\\OverwolfLauncher.exe\" -overwolfsilent -silent"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 10740,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --no-startup-window --win-session-start"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 13156,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=crashpad-handler \"--user-data-dir=C:\\Users\\buing\\AppData\\Local\\Microsoft\\Edge\\User Data\" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler \"--database=C:\\Users\\buing\\AppData\\Local\\Microsoft\\Edge\\User Data\\Crashpad\" \"--metrics-dir=C:\\Users\\buing\\AppData\\Local\\Microsoft\\Edge\\User Data\" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=129.0.6668.59 \"--annotation=exe=C:\\Program Files (x86)\\Microsof"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 13432,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=gpu-process --string-annotations=is-enterprise-managed=yes --gpu-preferences=UAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=2532,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version --mojo-platform-channel-handle=2516 /prefetch:2"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 13440,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --string-annotations=is-enterprise-managed=yes --field-trial-handle=2356,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version --mojo-platform-channel-handle=2192 /prefetch:3"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 13524,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --string-annotations=is-enterprise-managed=yes --field-trial-handle=2792,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version --mojo-platform-channel-handle=2860 /prefetch:8"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 13808,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=103299877 --field-trial-handle=4020,i,3199256390647259218,3105"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 13948,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=103371766 --field-trial-handle=4360,i,3199256390647259218,3105"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 6304,
+	"ppid": 10612,
+	"cmd_line": "D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe --type=crashpad-handler --no-rate-limit --max-db-size=10 --max-db-age=5 --monitor-self-annotation=ptype=crashpad-handler \"--database=C:\\Users\\buing\\AppData\\Local\\Overwolf\\User Data\\Crashpad\" \"--metrics-dir=C:\\Users\\buing\\AppData\\Local\\Overwolf\\User Data\" --url=http://localhost:54288/ --annotation=platform=win64 --annotation=product=Overwolf --annotation=version=0.258.1.7 --initial-client-data=0xea0,0xe9c,0xe98,0xbac,0xca4,0x7fff1acd4738,0x7fff1acd4744,0x7fff1acd4750"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 14664,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Grammarly\\DesktopIntegrations\\Grammarly.Desktop.exe\" "
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 15096,
+	"ppid": 10612,
+	"cmd_line": "\"D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe\" --type=gpu-process --no-sandbox --locales-dir-path=\"D:\\overwolf\\0.258.1.7\\Locales\" --log-severity=disable --user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OverwolfClient/0.258.1.7\" --lang=en-US --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\Overwolf\\BrowserCache\" --ignore-certificate-errors --remote-allow-origins=* --ow-domain=www.overwolf.com --ow-process-id=10612 --gpu-preferences=WAAAAA"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 7096,
+	"ppid": 10612,
+	"cmd_line": "\"D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-sandbox --locales-dir-path=\"D:\\overwolf\\0.258.1.7\\Locales\" --log-severity=disable --user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OverwolfClient/0.258.1.7\" --lang=en-US --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\Overwolf\\BrowserCache\" --ignore-certificate-errors --remote-allow-"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 3008,
+	"ppid": 10612,
+	"cmd_line": "\"C:\\Program Files (x86)\\Common Files\\Overwolf\\0.258.1.7\\OverwolfHelper.exe\" \"path=D:\\overwolf\\0.258.1.7\\win32\\OWExplorerLauncher.dll pid=10612 gamelist=C:\\Users\\buing\\AppData\\Local\\Overwolf\\Temp\\gamelist.json\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 6860,
+	"ppid": 10612,
+	"cmd_line": "\"C:\\Program Files (x86)\\Common Files\\Overwolf\\0.258.1.7\\OverwolfHelper64.exe\" \"path=D:\\overwolf\\0.258.1.7\\OWExplorerLauncher.dll pid=10612 gamelist=C:\\Users\\buing\\AppData\\Local\\Overwolf\\Temp\\gamelist.json\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4656,
+	"ppid": 10612,
+	"cmd_line": "\"D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe\" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --no-sandbox --locales-dir-path=\"D:\\overwolf\\0.258.1.7\\Locales\" --log-severity=disable --user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OverwolfClient/0.258.1.7\" --lang=en-US --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\Overwolf\\BrowserCache\" --owapp=\"Overwolf Remote Configurations "
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 7200,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k NetworkService -p -s DoSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 12080,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s StorSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 3624,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftPCManager_3.12.5.0_x64__8wekyb3d8bbwe\\PCManager\\MSPCManager.exe\"  --Source=Auto --Activate=False "
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 15272,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files\\Cloudflare\\Cloudflare WARP\\Cloudflare WARP.exe\" "
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 15424,
+	"ppid": 15404,
+	"cmd_line": "\"C:\\Program Files\\Adobe\\Adobe Creative Cloud Experience\\CCXProcess.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 15444,
+	"ppid": 15424,
+	"cmd_line": "\"C:\\Program Files\\Adobe\\Adobe Creative Cloud Experience\\libs\\node.exe\" \"C:\\Program Files\\Adobe\\Adobe Creative Cloud Experience\\js\\main.js\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 15452,
+	"ppid": 15444,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 15472,
+	"ppid": 13268,
+	"cmd_line": "\"C:\\Program Files (x86)\\Common Files\\Java\\Java Update\\jusched.exe\" "
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 15896,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 16144,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s seclogon"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 16200,
+	"ppid": 15444,
+	"cmd_line": "\"C:\\Program Files (x86)\\Common Files\\Adobe\\Adobe Desktop Common\\IPCBox\\AdobeIPCBroker.exe\" \"-launchedbyvulcan-15444 C:\\Program Files\\Adobe\\Adobe Creative Cloud Experience\\libs\\node.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 3840,
+	"ppid": 3624,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe\" --embedded-browser-webview=1 --webview-exe-name=MSPCManager.exe --webview-exe-version=3.12.5.0 --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\" --noerrdialogs --embedded-browser-webview-dpi-awareness=2 --enable-features=MojoIpcz,msSingleSignOnOSForPrimaryAccountIsShared --mojo-named-platform-channel-pipe=3624.7120.15515022659251942739"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 12316,
+	"ppid": 3840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe\" --type=crashpad-handler \"--user-data-dir=C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler \"--database=C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\\Crashpad\" \"--metrics-dir=C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=1"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 15432,
+	"ppid": 3840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe\" --type=gpu-process --noerrdialogs --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\" --webview-exe-name=MSPCManager.exe --webview-exe-version=3.12.5.0 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --gpu-preferences=UAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-hand"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 6972,
+	"ppid": 3840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --noerrdialogs --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\" --webview-exe-name=MSPCManager.exe --webview-exe-version=3.12.5.0 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --field-trial-handle=1900,i,4353748714490378359,18161573679727225237,262144 --en"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 15772,
+	"ppid": 3840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe\" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --noerrdialogs --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\" --webview-exe-name=MSPCManager.exe --webview-exe-version=3.12.5.0 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --field-trial-handle=1988,i,4353748714490378359,18161573679727225237,262144 -"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 15640,
+	"ppid": 3840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe\" --type=renderer --noerrdialogs --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\" --webview-exe-name=MSPCManager.exe --webview-exe-version=3.12.5.0 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=5 --js-flag"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 16616,
+	"ppid": 7836,
+	"cmd_line": "\"D:\\New folder\\EVKey\\EVKey64.exe\" "
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17344,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkbackend\" \"5312\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17388,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkbackend\" \"5316\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 13448,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k UnistackSvcGroup"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 16528,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Intel\\SUR\\QUEENCREEK\\x64\\esrv_svc.exe\" \"--AUTO_START\" \"--start\" \"--start_options_registry_key\" \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\services\\ESRV_SVC_QUEENCREEK\\_start\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17132,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Microsoft SQL Server\\MSSQL16.MSSQLSERVER\\MSSQL\\Binn\\sqlservr.exe\" -sMSSQLSERVER"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 15512,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\SgrmBroker.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 11176,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Microsoft SQL Server\\MSSQL16.MSSQLSERVER\\MSSQL\\Binn\\sqlceip.exe\" -Service "
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 13456,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p -s wscsvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2440,
+	"ppid": 5224,
+	"cmd_line": "cmd.exe  /c \"C:\\metasploit\\apps\\pro\\..\\..\\nginx\\sbin\\nginxr7.exe\" -c C:\\metasploit\\apps\\pro\\..\\..\\nginx\\conf\\nginx.conf"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 3628,
+	"ppid": 2440,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 8108,
+	"ppid": 2440,
+	"cmd_line": "C:\\metasploit\\apps\\pro\\..\\..\\nginx\\sbin\\nginxr7.exe  -c C:\\metasploit\\apps\\pro\\..\\..\\nginx\\conf\\nginx.conf"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2128,
+	"ppid": 8108,
+	"cmd_line": "C:\\metasploit\\apps\\pro\\..\\..\\nginx\\sbin\\nginxr7.exe  -c C:\\metasploit\\apps\\pro\\..\\..\\nginx\\conf\\nginx.conf"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 6424,
+	"ppid": 2128,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 16560,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\SecurityHealthService.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 10840,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkbackend\" \"5332\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 8472,
+	"ppid": 16540,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 12628,
+	"ppid": 9040,
+	"cmd_line": "\"C:\\Program Files\\Intel\\SUR\\QUEENCREEK\\x64\\esrv.exe\" \"--start\" \"--start_options_handle\" \"924\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9820,
+	"ppid": 15472,
+	"cmd_line": "\"C:\\Program Files (x86)\\Common Files\\Java\\Java Update\\jucheck.exe\" -auto -critical"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 16900,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs -p"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17312,
+	"ppid": 968,
+	"cmd_line": "/silentConfig"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 12608,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalService -p -s LicenseManager"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 12588,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5188,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s DsSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17260,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\system32\\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1244,
+	"ppid": 7836,
+	"cmd_line": "\"D:\\Riot Games\\Riot Client\\RiotClientServices.exe\" --launch-product= --launch-patchline="
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 13308,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=61 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=1381809253 --field-trial-handle=7144,i,3199256390647259218,31"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2076,
+	"ppid": 1244,
+	"cmd_line": "\"D:\\Riot Games\\Riot Client\\RiotClientCrashHandler.exe\" --no-rate-limit \"--database=C:\\Users\\buing\\AppData\\Local\\Riot Games\\Riot Client\\Crashes\\Riot Client\" \"--metrics-dir=C:\\Users\\buing\\AppData\\Local\\Riot Games\\Riot Client\\Crashes\\Riot Client\" --url=https://sentry.io:443/api/1339107/minidump/?sentry_client=sentry.native/0.7.5\u0026sentry_key=dc54709324504ab18ddf517a83f99e1a \"--attachment=C:/Users/buing/AppData/Local/Riot Games/Riot Client/Logs/Riot Client Logs/2024-09-24T09-45-15_1244_Riot Client.0.log\" \"--attac"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2952,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=66 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=1384514431 --field-trial-handle=6812,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9028,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=78 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=1386164175 --field-trial-handle=5356,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9256,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=67 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=1387600890 --field-trial-handle=7632,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 15088,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=68 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=1387981863 --field-trial-handle=8400,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9516,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=70 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=1388519876 --field-trial-handle=9516,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9112,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=71 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=1388732252 --field-trial-handle=9848,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 11184,
+	"ppid": 1244,
+	"cmd_line": "\"D:/Riot Games/Riot Client/RiotClientElectron/Riot Client.exe\" --app-port=52611 --remoting-auth-token=sG8lMU_Y4eREqXHR8DDDxA --app-pid=1244 \"--log-dir=C:/Users/buing/AppData/Local/Riot Games/Riot Client/Logs\" \"--user-data-root=C:/Users/buing/AppData/Local/Riot Games/Riot Client\" \"--app-root=D:/Riot Games/Riot Client\" --crashpad-environment=KeystoneFoundationLiveWin --machine-id=zcO3g0moGki/2/byo3/jKA=="
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 6928,
+	"ppid": 11184,
+	"cmd_line": "\"D:\\Riot Games\\Riot Client\\RiotClientElectron\\Riot Client.exe\" --type=crashpad-handler --user-data-dir=C:\\Users\\buing\\AppData\\Roaming\\riot-client-ux /prefetch:7 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\buing\\AppData\\Roaming\\riot-client-ux\\Crashpad --url=https://f.a.k/e --annotation=_productName=riot-client-ux --annotation=_version=94.0.0 --annotation=plat=Win64 --annotation=prod=Electron --annotation=ver=22.3.27 --initial-client-data=0x494,0x498,0x49c,0x470,0x448,"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5916,
+	"ppid": 11184,
+	"cmd_line": "\"D:\\Riot Games\\Riot Client\\RiotClientElectron\\Riot Client.exe\" --type=gpu-process --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\riot-client-ux\" --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --use-gl=angle --use-angle=swiftshader-webgl --mojo-platform-channel-handle=1840 --field-trial-handle=1900,i,16068419651933235806,1495083241431"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 11456,
+	"ppid": 11184,
+	"cmd_line": "\"D:\\Riot Games\\Riot Client\\RiotClientElectron\\Riot Client.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\riot-client-ux\" --standard-schemes --secure-schemes=sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=sentry-ipc --service-worker-schemes --streaming-schemes --mojo-platform-channel-handle=2036 --field-trial-handle=1900,i,16068419651933235806,1495083241431150101,"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9052,
+	"ppid": 11184,
+	"cmd_line": "\"D:\\Riot Games\\Riot Client\\RiotClientElectron\\Riot Client.exe\" --type=renderer --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\riot-client-ux\" --standard-schemes --secure-schemes=sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=sentry-ipc --service-worker-schemes --streaming-schemes --app-path=\"D:\\Riot Games\\Riot Client\\RiotClientElectron\\resources\\app.asar\" --enable-sandbox --first-renderer-process --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raste"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 13748,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=edge_search_indexer.mojom.SearchIndexerInterfaceBroker --lang=en-US --service-sandbox-type=search_indexer --message-loop-type-ui --video-capture-use-gpu-memory-buffer --string-annotations=is-enterprise-managed=yes --field-trial-handle=12376,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version --mojo-platform-channel-handle=11912 /prefetch:8"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17568,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --video-capture-use-gpu-memory-buffer --string-annotations=is-enterprise-managed=yes --field-trial-handle=12204,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version --mojo-platform-channel-handle=9992 /prefetch:8"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17604,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\CompPkgSrv.exe -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 13660,
+	"ppid": 10612,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Overwolf\\ProcessCache\\0.258.1.7\\aheglebeeekjdnkljmpngplhpedgejncjhojnndh\\MetaTFT.exe\" --type=renderer --locales-dir-path=\"D:\\overwolf\\0.258.1.7\\Locales\" --log-severity=disable --user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OverwolfClient/0.258.1.7\" --uncaught-exception-stack-size=20 --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\Overwolf\\BrowserCache\" --owapp=\"MetaTFT - background\" --ow-enable-feature"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 20304,
+	"ppid": 480,
+	"cmd_line": "\"C:\\WINDOWS\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe\" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17268,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=324 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=3443546541 --field-trial-handle=13292,i,3199256390647259218,3105904011974637553,262144 --variations-seed-versi"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17840,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=327 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=3451191581 --field-trial-handle=13204,i,3199256390647259218,3105904011974637553,262144 --variations-seed-versi"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 16424,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=329 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=3452006913 --field-trial-handle=14256,i,3199256390647259218,3105904011974637553,262144 --variations-seed-versi"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 18100,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceAndNoImpersonation -p -s wcncsvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17420,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=347 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=3912687706 --field-trial-handle=11400,i,3199256390647259218,3105904011974637553,262144 --variations-seed-versi"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 18128,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\system32\\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 21756,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 19688,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s CaptureService"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 22516,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=568 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=10964316594 --field-trial-handle=14708,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1544,
+	"ppid": 3020,
+	"cmd_line": "C:\\WINDOWS\\system32\\AUDIODG.EXE 0x6d0 0x6d4"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5340,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9252,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\system32\\wbem\\unsecapp.exe -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 18968,
+	"ppid": 11168,
+	"cmd_line": "\"C:\\Program Files\\LGHUB\\logi_crashpad_handler.exe\" --no-rate-limit --database=C:\\Users\\buing\\AppData\\Local\\LGHUB\\sentry_db_lghub_agent --metrics-dir=C:\\Users\\buing\\AppData\\Local\\LGHUB\\sentry_db_lghub_agent --url=https://sentry.io:443/api/1779200/minidump/?sentry_client=sentry.native/0.4.14\u0026sentry_key=91ca51384751442380bd8987a6be91ab --attachment=C:\\ProgramData\\LGHUB\\installation.json --attachment=C:\\ProgramData\\LGHUB\\next.json --attachment=C:\\ProgramData\\LGHUB\\current.json --attachment=C:\\Users\\buing\\AppDat"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 21360,
+	"ppid": 4216,
+	"cmd_line": "\"C:\\Program Files\\LGHUB\\logi_crashpad_handler.exe\" --no-rate-limit --database=C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\LGHUB\\sentry_db_lghub_updater --metrics-dir=C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\LGHUB\\sentry_db_lghub_updater --url=https://sentry.io:443/api/1781309/minidump/?sentry_client=sentry.native/0.4.14\u0026sentry_key=5e4f884641df4e6a9514b41646a5ffa9 --attachment=C:\\ProgramData\\LGHUB\\installation.json --attachment=C:\\ProgramData\\LGHUB\\next.json --attachment=C:\\ProgramDa"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 19908,
+	"ppid": 1536,
+	"cmd_line": "taskhostw.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 19108,
+	"ppid": 1244,
+	"cmd_line": "\"D:/Riot Games/League of Legends/LeagueClient.exe\" --riotclient-auth-token=yOaYcRO8DhEM64swa73VpA --riotclient-app-port=52611 --no-rads --disable-self-update --region=VN2 --locale=vi_VN --riotgamesapi-standalone --riotgamesapi-settings=eyJjbGllbnQtY29uZmlnIjp7InVybCI6Imh0dHBzOi8vY2xpZW50Y29uZmlnLnJwZy5yaW90Z2FtZXMuY29tIn0sImRlZmF1bHRfcmVnaW9uIjoiVk4yIiwiZ2xvYmFscyI6eyJzZXNzaW9uLWlkIjoiNzAwM2I1YmItYTA3OC0xZTQ3LThjNTItOGZkYzc2ZGM1ODFjIn0sInBhdGNobGluZV9pZCI6ImxpdmUiLCJwcm9kdWN0LWludGVncmF0aW9uIjp7ImFwcC11cGRh"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 22124,
+	"ppid": 19108,
+	"cmd_line": "\"D:\\Riot Games\\League of Legends\\LeagueCrashHandler64.exe\" \"--database=C:/Users/buing/AppData/Local/Riot Games/League of Legends/LeagueClient/Crashes\" \"--metrics-dir=C:/Users/buing/AppData/Local/Riot Games/League of Legends/LeagueClient/Crashes\" --url=https://sentry.io/api/1442968/minidump/?sentry_key=819c51f9b27f4f4b8cf6811c04fda544 --initial-client-data=0x260,0x26c,0x274,0x25c,0x27c,0x7ff7a6ea54f8,0x7ff7a6ea5510,0x7ff7a6ea5528"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 12784,
+	"ppid": 19108,
+	"cmd_line": "\"D:/Riot Games/League of Legends/LeagueClientUx.exe\" \"--riotclient-auth-token=yOaYcRO8DhEM64swa73VpA\" \"--riotclient-app-port=52611\" \"--no-rads\" \"--disable-self-update\" \"--region=VN2\" \"--locale=vi_VN\" \"--riotgamesapi-standalone\" \"--riotgamesapi-settings=eyJjbGllbnQtY29uZmlnIjp7InVybCI6Imh0dHBzOi8vY2xpZW50Y29uZmlnLnJwZy5yaW90Z2FtZXMuY29tIn0sImRlZmF1bHRfcmVnaW9uIjoiVk4yIiwiZ2xvYmFscyI6eyJzZXNzaW9uLWlkIjoiNzAwM2I1YmItYTA3OC0xZTQ3LThjNTItOGZkYzc2ZGM1ODFjIn0sInBhdGNobGluZV9pZCI6ImxpdmUiLCJwcm9kdWN0LWludGVncmF0aW9"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9996,
+	"ppid": 12784,
+	"cmd_line": "\"D:\\Riot Games\\League of Legends\\LeagueClientUxRender.exe\" --type=gpu-process --field-trial-handle=1580,15147008198260426302,410620485156031559,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies --no-sandbox --log-file=\"D:\\Riot Games\\League of Legends\\debug.log\" --user-agent-product=\"LeagueOfLegendsClient/14.18.620.2082 (CEF 91)\" --lang=en-US --gpu-preferences=SAAAAAAAAADgACgwAAAAAAAAAAAAAAAAAABgAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAAAAAAHgAA"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 19120,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=636 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=18363139222 --field-trial-handle=12612,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 11088,
+	"ppid": 12784,
+	"cmd_line": "\"D:\\Riot Games\\League of Legends\\LeagueClientUxRender.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1580,15147008198260426302,410620485156031559,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies --lang=en-US --service-sandbox-type=none --no-sandbox --ignore-certificate-errors --ignore-certificate-errors --log-file=\"D:\\Riot Games\\League of Legends\\debug.log\" --user-agent-product=\"LeagueOfLegendsClient/14.1"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 572,
+	"ppid": 12784,
+	"cmd_line": "\"D:\\Riot Games\\League of Legends\\LeagueClientUxRender.exe\" --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-device-scale-factor=1 --log-file=\"D:\\Riot Games\\League of Legends\\debug.log\" --max-active-webgl-contexts=20 --field-trial-handle=1580,15147008198260426302,410620485156031559,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies --lang=en-US --log-file=\"D:\\Riot Games\\League of Legends\\debug.log\" --user-agent-product"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1408,
+	"ppid": 12784,
+	"cmd_line": "\"D:\\Riot Games\\League of Legends\\LeagueClientUxRender.exe\" --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=1580,15147008198260426302,410620485156031559,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies --lang=en-US --service-sandbox-type=audio --no-sandbox --ignore-certificate-errors --ignore-certificate-errors --log-file=\"D:\\Riot Games\\League of Legends\\debug.log\" --user-agent-product=\"LeagueOfLegendsClient/14.18.6"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 12596,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Riot Vanguard\\vgc.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9748,
+	"ppid": 10612,
+	"cmd_line": "\"D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe\" --type=renderer --locales-dir-path=\"D:\\overwolf\\0.258.1.7\\Locales\" --log-severity=disable --user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OverwolfClient/0.258.1.7\" --uncaught-exception-stack-size=20 --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\Overwolf\\BrowserCache\" --owapp=\"Launcher Events Provider - app.html\" --ow-enable-features=osr-software-rendering,use-override-ad-domain-as-referr"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 22556,
+	"ppid": 12784,
+	"cmd_line": "\"D:\\Riot Games\\League of Legends\\LeagueClientUxRender.exe\" --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-device-scale-factor=1 --log-file=\"D:\\Riot Games\\League of Legends\\debug.log\" --max-active-webgl-contexts=20 --field-trial-handle=1580,15147008198260426302,410620485156031559,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies --lang=en-US --log-file=\"D:\\Riot Games\\League of Legends\\debug.log\" --user-agent-product"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2124,
+	"ppid": 480,
+	"cmd_line": "\"C:\\WINDOWS\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe\" -ServerName:ShellFeedsUI.AppX88fpyyrd21w8wqe62wzsjh5agex7tf1e.mca"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 21244,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\devenv.exe\" "
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4852,
+	"ppid": 21244,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\controller\\Microsoft.ServiceHub.Controller.exe\" \"c5c8ed54178cc070febe8b4d435ced2620916fcf185dfff7767d0beb23d1079d\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" /ControllerCooldownTimeout:30000 \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\"\"\":\"\"\"AIF-312c"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2184,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.netfx.x86\\ServiceHub.IdentityHost.exe\" \"netfx.x86$IdentityHost\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\"\"\":\"\"\"AIF-312cbd79-9dbb-4c"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 6956,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.VSDetouredHost.exe\" \"netfx.anycpu$VSDetouredHost\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\"\"\":\"\"\"AIF-312cbd79-9db"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9572,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.Dotnet.x64\\ServiceHub.IndexingService\" \"dotnet$IndexingService\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5436,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.ThreadedWaitDialog.exe\" \"netfx.anycpu$ThreadedWaitDialog\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\"\"\":\"\"\"AIF-312c"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 10516,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.netfx.x86\\ServiceHub.Host.netfx.x86.exe\" \"netfx.x86$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 19884,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.SettingsHost.exe\" \"netfx.anycpu$SettingsHost\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\"\"\":\"\"\"AIF-312cbd79-9dbb-4c"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 23232,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.netfx.x64\\ServiceHub.IntellicodeModelService.exe\" \"netfx.x64$IntellicodeModelService\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17824,
+	"ppid": 21244,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\vshost.exe\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17040,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.Host.AnyCPU.exe\" \"netfx.anycpu$CodeLensService$$21244\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\"\"\":\"\"\"AIF-312cbd7"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 6964,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.TestWindowStoreHost.exe\" \"netfx.anycpu$TestWindowStoreHost\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\"\"\":\"\"\"AIF-31"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17504,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\system32\\prevhost.exe {914FEED8-267A-4BAA-B8AA-21E233792679} -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 20832,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=660 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=18800891888 --field-trial-handle=10920,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 21236,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 6984,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=667 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=19036154803 --field-trial-handle=9204,i,3199256390647259218,3105904011974637553,262144 --variations-seed-versi"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9420,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --instant-process --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=680 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=19108706881 --field-trial-handle=14480,i,3199256390647259218,3105904011974637553,262144 --va"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5264,
+	"ppid": 480,
+	"cmd_line": "\"C:\\WINDOWS\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe\" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 13756,
+	"ppid": 17824,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\vcpackages\\x86\\VCPkgSrv.exe\" -s {5DC497A7-F3FC-4BDD-AAF2-FCED4C60F878} -p 21244 -i TagParser -r \"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\common7\\ide\\x86\\VSReliability.dll\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 23008,
+	"ppid": 17824,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\vcpackages\\x86\\VCPkgSrv.exe\" -q -s {457824CE-1990-4D93-9E16-9360D1A1DFEE} -p 21244 -i IntelliSense -r \"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\common7\\ide\\x86\\VSReliability.dll\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 11328,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=846 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=23452554881 --field-trial-handle=15404,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 19368,
+	"ppid": 10612,
+	"cmd_line": "\"D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe\" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --no-sandbox --locales-dir-path=\"D:\\overwolf\\0.258.1.7\\Locales\" --log-severity=disable --user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OverwolfClient/0.258.1.7\" --lang=en-US --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\Overwolf\\BrowserCache\" --ignore-certificate-errors --remote-allow-ori"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 16788,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=872 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=23904525862 --field-trial-handle=14952,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 20676,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=877 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=24019591146 --field-trial-handle=7984,i,3199256390647259218,3105904011974637553,262144 --variations-seed-versi"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 24396,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k wsappx -p -s AppXSvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 2096,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=891 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=24169760034 --field-trial-handle=9976,i,3199256390647259218,3105904011974637553,262144 --variations-seed-versi"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 10872,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=892 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=24175379612 --field-trial-handle=16232,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 10224,
+	"ppid": 7284,
+	"cmd_line": "\"C:\\WINDOWS\\system32\\SearchProtocolHost.exe\" Global\\UsGthrFltPipeMssGthrPipe68_ Global\\UsGthrCtrlFltPipeMssGthrPipe68 1 -2147483646 \"Software\\Microsoft\\Windows Search\" \"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)\" \"C:\\ProgramData\\Microsoft\\Search\\Data\\Temp\\usgthrsvc\" \"DownLevelDaemon\" "
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9988,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=937 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=25373893895 --field-trial-handle=16968,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 24320,
+	"ppid": 21244,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\MSBuild.exe\" /nologo /nodemode:1 /nodeReuse:true /low:false"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17220,
+	"ppid": 24320,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 22048,
+	"ppid": 21244,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\MSBuild.exe\" /nologo /nodemode:1 /nodeReuse:true /low:false"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 19888,
+	"ppid": 22048,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9688,
+	"ppid": 22800,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\VCTIP.EXE\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 22612,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=944 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=25455975907 --field-trial-handle=15304,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 22484,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=945 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=25455990021 --field-trial-handle=16364,i,3199256390647259218"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 8012,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\smartscreen.exe -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 14804,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" "
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9712,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=crashpad-handler --user-data-dir=C:\\Users\\buing\\AppData\\Roaming\\Code /prefetch:4 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\buing\\AppData\\Roaming\\Code\\Crashpad --url=appcenter://code?aid=a4e3233c-699c-46ec-b4f4-9c2a77254662\u0026uid=2a5952c2-80e0-41a3-ab89-e2b2532f974e\u0026iid=2a5952c2-80e0-41a3-ab89-e2b2532f974e\u0026sid=2a5952c2-80e0-41a3-ab89-e2b2532f974e --annotation=_companyName=Microsoft --annotation="
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 11776,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=gpu-process --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\Code\" --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=1740,i,13933868214815027921,12288733215806109056,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinDelaySpellc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 23708,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 18752,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=renderer --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-user-model-id=Microsoft.VisualStudioCode --app-path=\"C:\\Users\\buing\\AppData\\Local\\Program"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 21008,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-sc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 18240,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4308,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 20664,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 21928,
+	"ppid": 21008,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"c:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\json-language-features\\server\\dist\\node\\jsonServerMain\" --node-ipc --clientProcessId=21008"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 19380,
+	"ppid": 20664,
+	"cmd_line": "\\\\?\\C:\\WINDOWS\\system32\\conhost.exe --headless --inheritcursor --width 200 --height 19 --signal 0x3c8 --server 0x3c0"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 264,
+	"ppid": 21008,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" c:\\Users\\buing\\.vscode\\extensions\\formulahendry.auto-rename-tag-0.1.10\\packages\\server\\dist\\serverMain.js --node-ipc --clientProcessId=21008"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 18216,
+	"ppid": 20664,
+	"cmd_line": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command \"try { . \\\"c:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\browser\\media\\shellIntegration.ps1\\\" } catch {}\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17096,
+	"ppid": 21008,
+	"cmd_line": "C:\\Users\\buing\\go\\bin\\gopls.exe -mode=stdio"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 18768,
+	"ppid": 17096,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 24108,
+	"ppid": 21008,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" c:\\Users\\buing\\.vscode\\extensions\\dbaeumer.vscode-eslint-3.0.10\\server\\out\\eslintServer.js --node-ipc --clientProcessId=21008"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 1928,
+	"ppid": 17096,
+	"cmd_line": "C:\\Users\\buing\\go\\bin\\gopls.exe \"** telemetry **\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 19892,
+	"ppid": 21008,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" c:\\Users\\buing\\.vscode\\extensions\\bradlc.vscode-tailwindcss-0.12.10\\dist\\tailwindServer.js --node-ipc --clientProcessId=21008"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 18064,
+	"ppid": 18216,
+	"cmd_line": "\"C:\\Program Files\\Go\\bin\\go.exe\" run .\\main.go"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 18496,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 20212,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.20.11781.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe\" "
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 22376,
+	"ppid": 20212,
+	"cmd_line": "\"C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.20.11781.0_x64__8wekyb3d8bbwe\\OpenConsole.exe\" --headless --resizeQuirk --width 120 --height 30 --signal 0xb78 --server 0xb70"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 21996,
+	"ppid": 20212,
+	"cmd_line": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 4040,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s gpsvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 11220,
+	"ppid": 18064,
+	"cmd_line": "C:\\Users\\buing\\AppData\\Local\\Temp\\go-build2721334680\\b001\\exe\\main.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 22708,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s wlidsvc"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 23816,
+	"ppid": 20212,
+	"cmd_line": "\"C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.20.11781.0_x64__8wekyb3d8bbwe\\OpenConsole.exe\" --headless --resizeQuirk --width 92 --height 50 --signal 0xf28 --server 0xf20"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 22168,
+	"ppid": 20212,
+	"cmd_line": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 22224,
+	"ppid": 7284,
+	"cmd_line": "\"C:\\WINDOWS\\system32\\SearchFilterHost.exe\" 0 836 840 848 8192 844 816 "
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 5140,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\sysWOW64\\wbem\\wmiprvse.exe -secured -Embedding"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 20964,
+	"ppid": 17824,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\vcpackages\\x86\\VCPkgSrv.exe\" -q -s {03A9093D-3517-437D-89AD-69C9B49C1B02} -p 21244 -i IntelliSense -r \"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\common7\\ide\\x86\\VSReliability.dll\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 3848,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=952 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=25651460567 --field-trial-handle=17264,i,3199256390647259218"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 21720,
+	"ppid": 21996,
+	"cmd_line": "\"C:/Users/buing/AppData/Local/Programs/oh-my-posh/bin/oh-my-posh.exe\" \"print\" \"primary\" \"--status=0\" \"--pswd=C:\\Users\\buing\\source\\repos\\WinGRPC\\x64\\Release\" \"--execution-time=200.7953\" \"--stack-count=0\" \"--config=C:\\Users\\buing\\AppData\\Local\\Programs\\oh-my-posh\\themes\\jblab_2021.omp.json\" \"--shell-version=5.1.19041.4894\" \"--terminal-width=92\" \"--shell=pwsh\" \"--no-status=False\""
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 23812,
+	"ppid": 21720,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 9896,
+	"ppid": 21720,
+	"cmd_line": "\"C:\\Program Files\\Git\\cmd\\git.exe\" -C C:/Users/buing --no-optional-locks -c core.quotepath=false -c color.status=false status -unormal --branch --porcelain=2"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 17836,
+	"ppid": 22168,
+	"cmd_line": "\"C:\\Users\\buing\\source\\repos\\WinGRPC\\x64\\Release\\SystemETW.exe\" 127.0.0.1 50051"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 23020,
+	"ppid": 9896,
+	"cmd_line": "git.exe -C C:/Users/buing --no-optional-locks -c core.quotepath=false -c color.status=false status -unormal --branch --porcelain=2"
+},{
+	"opcode": 3,
+	"opcode_name": "DCStart",
+	"pid": 22112,
+	"ppid": 23020,
+	"cmd_line": "git status --porcelain=2"
+},{
+	"opcode": 2,
+	"opcode_name": "End",
+	"pid": 22112,
+	"ppid": 23020,
+	"cmd_line": "git status --porcelain=2"
+},{
+	"opcode": 2,
+	"opcode_name": "End",
+	"pid": 23020,
+	"ppid": 9896,
+	"cmd_line": "git.exe -C C:/Users/buing --no-optional-locks -c core.quotepath=false -c color.status=false status -unormal --branch --porcelain=2"
+},{
+	"opcode": 2,
+	"opcode_name": "End",
+	"pid": 9896,
+	"ppid": 21720,
+	"cmd_line": "\"C:\\Program Files\\Git\\cmd\\git.exe\" -C C:/Users/buing --no-optional-locks -c core.quotepath=false -c color.status=false status -unormal --branch --porcelain=2"
+},{
+	"opcode": 1,
+	"opcode_name": "Start",
+	"pid": 13972,
+	"ppid": 21720,
+	"cmd_line": "\"C:\\Program Files\\Git\\cmd\\git.exe\" -C C:/Users/buing --no-optional-locks -c core.quotepath=false -c color.status=false remote get-url origin"
+},{
+	"opcode": 1,
+	"opcode_name": "Start",
+	"pid": 24424,
+	"ppid": 13972,
+	"cmd_line": "git.exe -C C:/Users/buing --no-optional-locks -c core.quotepath=false -c color.status=false remote get-url origin"
+},{
+	"opcode": 2,
+	"opcode_name": "End",
+	"pid": 24424,
+	"ppid": 13972,
+	"cmd_line": "git.exe -C C:/Users/buing --no-optional-locks -c core.quotepath=false -c color.status=false remote get-url origin"
+},{
+	"opcode": 2,
+	"opcode_name": "End",
+	"pid": 13972,
+	"ppid": 21720,
+	"cmd_line": "\"C:\\Program Files\\Git\\cmd\\git.exe\" -C C:/Users/buing --no-optional-locks -c core.quotepath=false -c color.status=false remote get-url origin"
+},{
+	"opcode": 2,
+	"opcode_name": "End",
+	"pid": 21720,
+	"ppid": 21996,
+	"cmd_line": "\"C:/Users/buing/AppData/Local/Programs/oh-my-posh/bin/oh-my-posh.exe\" \"print\" \"primary\" \"--status=0\" \"--pswd=C:\\Users\\buing\\source\\repos\\WinGRPC\\x64\\Release\" \"--execution-time=200.7953\" \"--stack-count=0\" \"--config=C:\\Users\\buing\\AppData\\Local\\Programs\\oh-my-posh\\themes\\jblab_2021.omp.json\" \"--shell-version=5.1.19041.4894\" \"--terminal-width=92\" \"--shell=pwsh\" \"--no-status=False\""
+},{
+	"opcode": 2,
+	"opcode_name": "End",
+	"pid": 23812,
+	"ppid": 21720,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 0,
+	"ppid": 0,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4,
+	"ppid": 0,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 124,
+	"ppid": 4,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 444,
+	"ppid": 4,
+	"cmd_line": "\\SystemRoot\\System32\\smss.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 672,
+	"ppid": 528,
+	"cmd_line": "%SystemRoot%\\system32\\csrss.exe ObjectDirectory=\\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 768,
+	"ppid": 528,
+	"cmd_line": "wininit.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 776,
+	"ppid": 756,
+	"cmd_line": "%SystemRoot%\\system32\\csrss.exe ObjectDirectory=\\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 840,
+	"ppid": 768,
+	"cmd_line": "C:\\WINDOWS\\system32\\services.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 852,
+	"ppid": 768,
+	"cmd_line": "C:\\WINDOWS\\system32\\lsass.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 936,
+	"ppid": 756,
+	"cmd_line": "winlogon.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 480,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k DcomLaunch -p"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 696,
+	"ppid": 768,
+	"cmd_line": "\"fontdrvhost.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 532,
+	"ppid": 936,
+	"cmd_line": "\"fontdrvhost.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1048,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k RPCSS -p"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1104,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k DcomLaunch -p -s LSM"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 1208,
+	"ppid": 840,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 1248,
+	"ppid": 936,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1256,
+	"ppid": 936,
+	"cmd_line": "\"dwm.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1300,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1336,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s NcbService"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1344,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p -s TimeBrokerSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1484,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p -s hidserv"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1536,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s Schedule"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1576,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s nsi"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1596,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s ProfSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1784,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s UserManager"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1792,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p -s Dhcp"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1964,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k NetworkService -p -s NlaSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2036,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNoNetwork -p"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2084,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalService -p -s netprofm"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2100,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k appmodel -p -s camsvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2216,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nv_dispsig.inf_amd64_441c71b9228d91a3\\Display.NvContainer\\NVDisplay.Container.exe -s NVDisplay.ContainerLocalSystem -f C:\\ProgramData\\NVIDIA\\NVDisplay.ContainerLocalSystem.log -l 3 -d C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nv_dispsig.inf_amd64_441c71b9228d91a3\\Display.NvContainer\\plugins\\LocalSystem -r -p 30000 -cfg NVDisplay.ContainerLocalSystem\\LocalSystem /ert"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2252,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k appmodel -p -s StateRepository"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2260,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s DispBrokerDesktopSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2328,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p -s WinHttpAutoProxySvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2392,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s EventSystem"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2400,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs -p -s Themes"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2408,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p -s SysMain"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2452,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k NetSvcs -p -s hns"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2568,
+	"ppid": 4,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2580,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k NetworkService -p -s Dnscache"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2632,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s SENS"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2700,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s AudioEndpointBuilder"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2712,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s FontCache"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2820,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k NetSvcs -s nvagent"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2924,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNoNetworkFirewall -p"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2992,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs -p -s SharedAccess"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 3032,
+	"ppid": 2216,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2764,
+	"ppid": 2216,
+	"cmd_line": "\"C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nv_dispsig.inf_amd64_441c71b9228d91a3\\Display.NvContainer\\NVDisplay.Container.exe\" -f %ProgramData%\\NVIDIA\\DisplaySessionContainer%d.log -d C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nv_dispsig.inf_amd64_441c71b9228d91a3\\Display.NvContainer\\plugins\\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\\Session /ert -c"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 3020,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 3096,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s Winmgmt"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 3356,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k NetSvcs -p -s iphlpsvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 3580,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 3596,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 3656,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs -p -s ShellHWDetection"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 3968,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\spoolsv.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4008,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\system32\\wbem\\wmiprvse.exe -Embedding"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4016,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\system32\\wbem\\wmiprvse.exe -secured -Embedding"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 3604,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k NetworkService -p -s LanmanWorkstation"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4100,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNoNetwork -p -s DPS"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4108,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k AzureAttestService -s AzureAttestService"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4116,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k utcsvc -p"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4128,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k NetworkService -p -s CryptSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4136,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSAService.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4152,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s IKEEXT"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4176,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\dal.inf_amd64_af50fdb80983f7bc\\jhi_service.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4184,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p -s DeviceAssociationService"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4204,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSAUpdateService.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4216,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\LGHUB\\lghub_updater.exe\" --run-as-service"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4280,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Common Files\\Foxit\\Foxit PDF Reader\\FoxitPDFReaderUpdateService.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4288,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s SstpSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4296,
+	"ppid": 840,
+	"cmd_line": "\"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.24080.9-0\\MpDefenderCoreService.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4312,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\OpenVPN\\bin\\openvpnserv2.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4324,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\OpenVPN\\bin\\openvpnserv.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4332,
+	"ppid": 840,
+	"cmd_line": "C:\\metasploit\\ruby\\bin\\ruby.exe -C \"C:\\metasploit\\apps\\pro\\ui\" worker_service.rb"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4348,
+	"ppid": 840,
+	"cmd_line": "C:\\metasploit\\ruby\\bin\\ruby.exe -C \"C:\\metasploit\\apps\\pro\\engine\" prosvc_service.rb -E production"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4340,
+	"ppid": 840,
+	"cmd_line": "C:\\metasploit\\ruby\\bin\\ruby.exe -C \"C:\\metasploit\\apps\\pro\\ui\" thin_service.rb"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4372,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe\" /service"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4380,
+	"ppid": 840,
+	"cmd_line": "\"C:\\metasploit\\postgresql\\bin\\pg_ctl.exe\" runservice -N \"metasploitPostgreSQL\" -D \"C:\\metasploit\\postgresql\\data\" -w"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4388,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\iaahcic.inf_amd64_3de4831720bb2934\\RstMwService.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4404,
+	"ppid": 840,
+	"cmd_line": "\"C:\\WINDOWS\\System32\\RtkAudUService64.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4412,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k imgsvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4428,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Microsoft SQL Server\\90\\Shared\\sqlwriter.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4448,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Intel\\SUR\\QUEENCREEK\\SurSvc.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4472,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s TrkWks"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4492,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s WpnService"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4500,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\mewmiprov.inf_amd64_d51901c26227fb29\\WMIRegistrationService.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4508,
+	"ppid": 840,
+	"cmd_line": "\"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.24080.9-0\\MsMpEng.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4516,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\TeamViewer\\TeamViewer_Service.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4732,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalService -p -s WdiServiceHost"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4836,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k NetworkService -p -s TapiSrv"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5052,
+	"ppid": 4184,
+	"cmd_line": "dashost.exe {6ffa8ddd-8597-4aea-a555cee7d477196c}"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5124,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s LanmanServer"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5228,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5484,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5500,
+	"ppid": 1784,
+	"cmd_line": "sihost.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5520,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k UnistackSvcGroup -s CDPUserSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5668,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k UnistackSvcGroup -s WpnUserService"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5836,
+	"ppid": 4380,
+	"cmd_line": "\"C:\\metasploit\\postgresql\\bin\\postgres.exe\" -D \"C:\\metasploit\\postgresql\\data\" "
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 5860,
+	"ppid": 4280,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5872,
+	"ppid": 5836,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 5888,
+	"ppid": 4280,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 5900,
+	"ppid": 4280,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 5908,
+	"ppid": 4280,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 6032,
+	"ppid": 4280,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 6040,
+	"ppid": 4280,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5516,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s TokenBroker"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 6536,
+	"ppid": 1536,
+	"cmd_line": "taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 6572,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p -s SSDPSRV"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 6580,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k NetworkServiceNetworkRestricted -p -s PolicyAgent"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 6808,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Cloudflare\\Cloudflare WARP\\warp-svc.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 7088,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s TabletInputService"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 6328,
+	"ppid": 7088,
+	"cmd_line": "\"ctfmon.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 7424,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forklog\" \"5484\" \"5496\" \"0\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 7484,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\system32\\DllHost.exe /Processid:{3EB3C877-1F16-487C-9050-104DBCD66683}"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 7744,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkboot\" \"5428\" \"-x4\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 7756,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkboot\" \"5472\" \"-x3\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 7764,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkboot\" \"5424\" \"-x5\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 7772,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkavlauncher\" \"5416\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 7784,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkcol\" \"5400\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 7792,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkbgworker=0\" \"5388\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 8080,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s LxssManager"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 8128,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftPCManager_3.12.5.0_x64__8wekyb3d8bbwe\\PCManager\\MSPCManagerService.exe\""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 7292,
+	"ppid": 936,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 7284,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\SearchIndexer.exe /Embedding"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 7836,
+	"ppid": 7292,
+	"cmd_line": "C:\\WINDOWS\\Explorer.EXE"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 6180,
+	"ppid": 4500,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 8316,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s CDPSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 8524,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -s RmSvc"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 8704,
+	"ppid": 4500,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 8920,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p -s NgcSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9004,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p -s NgcCtnrSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 8268,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9056,
+	"ppid": 4116,
+	"cmd_line": "AggregatorHost.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 6024,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p -s FDResPub"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 9892,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 8960,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 10176,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 10292,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s UsoSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 10364,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\mousocoreworker.exe -Embedding"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 10436,
+	"ppid": 480,
+	"cmd_line": "\"C:\\WINDOWS\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe\" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 11048,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s lfsvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 11516,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 12212,
+	"ppid": 840,
+	"cmd_line": "\"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.24080.9-0\\NisSrv.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 12076,
+	"ppid": 480,
+	"cmd_line": "\"C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe\" -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 11860,
+	"ppid": 4136,
+	"cmd_line": "\"C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSATray.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 7156,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p -s PcaSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 3396,
+	"ppid": 480,
+	"cmd_line": "\"C:\\WINDOWS\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy\\LockApp.exe\" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 11512,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1812,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s BthAvctpSvc"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 6756,
+	"ppid": 1536,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 8304,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Windows\\System32\\RtkAudUService64.exe\" -background"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 7800,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files\\LGHUB\\system_tray\\lghub_system_tray.exe\" --minimized"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 11168,
+	"ppid": 7800,
+	"cmd_line": "\"C:\\Program Files\\LGHUB\\lghub_agent.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4888,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files\\OpenVPN\\bin\\openvpn-gui.exe  "
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 10792,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\lync.exe\" /fromrunkey"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 10720,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s Appinfo"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 10612,
+	"ppid": 9484,
+	"cmd_line": "\"D:\\overwolf\\OverwolfLauncher.exe\" -overwolfsilent -silent"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 10740,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --no-startup-window --win-session-start"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 13156,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=crashpad-handler \"--user-data-dir=C:\\Users\\buing\\AppData\\Local\\Microsoft\\Edge\\User Data\" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler \"--database=C:\\Users\\buing\\AppData\\Local\\Microsoft\\Edge\\User Data\\Crashpad\" \"--metrics-dir=C:\\Users\\buing\\AppData\\Local\\Microsoft\\Edge\\User Data\" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=129.0.6668.59 \"--annotation=exe=C:\\Program Files (x86)\\Microsof"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 13432,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=gpu-process --string-annotations=is-enterprise-managed=yes --gpu-preferences=UAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=2532,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version --mojo-platform-channel-handle=2516 /prefetch:2"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 13440,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --string-annotations=is-enterprise-managed=yes --field-trial-handle=2356,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version --mojo-platform-channel-handle=2192 /prefetch:3"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 13524,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --string-annotations=is-enterprise-managed=yes --field-trial-handle=2792,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version --mojo-platform-channel-handle=2860 /prefetch:8"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 13808,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=103299877 --field-trial-handle=4020,i,3199256390647259218,3105"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 13948,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=103371766 --field-trial-handle=4360,i,3199256390647259218,3105"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 6304,
+	"ppid": 10612,
+	"cmd_line": "D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe --type=crashpad-handler --no-rate-limit --max-db-size=10 --max-db-age=5 --monitor-self-annotation=ptype=crashpad-handler \"--database=C:\\Users\\buing\\AppData\\Local\\Overwolf\\User Data\\Crashpad\" \"--metrics-dir=C:\\Users\\buing\\AppData\\Local\\Overwolf\\User Data\" --url=http://localhost:54288/ --annotation=platform=win64 --annotation=product=Overwolf --annotation=version=0.258.1.7 --initial-client-data=0xea0,0xe9c,0xe98,0xbac,0xca4,0x7fff1acd4738,0x7fff1acd4744,0x7fff1acd4750"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 14664,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Grammarly\\DesktopIntegrations\\Grammarly.Desktop.exe\" "
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 15096,
+	"ppid": 10612,
+	"cmd_line": "\"D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe\" --type=gpu-process --no-sandbox --locales-dir-path=\"D:\\overwolf\\0.258.1.7\\Locales\" --log-severity=disable --user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OverwolfClient/0.258.1.7\" --lang=en-US --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\Overwolf\\BrowserCache\" --ignore-certificate-errors --remote-allow-origins=* --ow-domain=www.overwolf.com --ow-process-id=10612 --gpu-preferences=WAAAAA"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 7096,
+	"ppid": 10612,
+	"cmd_line": "\"D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-sandbox --locales-dir-path=\"D:\\overwolf\\0.258.1.7\\Locales\" --log-severity=disable --user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OverwolfClient/0.258.1.7\" --lang=en-US --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\Overwolf\\BrowserCache\" --ignore-certificate-errors --remote-allow-"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 3008,
+	"ppid": 10612,
+	"cmd_line": "\"C:\\Program Files (x86)\\Common Files\\Overwolf\\0.258.1.7\\OverwolfHelper.exe\" \"path=D:\\overwolf\\0.258.1.7\\win32\\OWExplorerLauncher.dll pid=10612 gamelist=C:\\Users\\buing\\AppData\\Local\\Overwolf\\Temp\\gamelist.json\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 6860,
+	"ppid": 10612,
+	"cmd_line": "\"C:\\Program Files (x86)\\Common Files\\Overwolf\\0.258.1.7\\OverwolfHelper64.exe\" \"path=D:\\overwolf\\0.258.1.7\\OWExplorerLauncher.dll pid=10612 gamelist=C:\\Users\\buing\\AppData\\Local\\Overwolf\\Temp\\gamelist.json\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4656,
+	"ppid": 10612,
+	"cmd_line": "\"D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe\" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --no-sandbox --locales-dir-path=\"D:\\overwolf\\0.258.1.7\\Locales\" --log-severity=disable --user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OverwolfClient/0.258.1.7\" --lang=en-US --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\Overwolf\\BrowserCache\" --owapp=\"Overwolf Remote Configurations "
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 7200,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k NetworkService -p -s DoSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 12080,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s StorSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 3624,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftPCManager_3.12.5.0_x64__8wekyb3d8bbwe\\PCManager\\MSPCManager.exe\"  --Source=Auto --Activate=False "
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 15272,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files\\Cloudflare\\Cloudflare WARP\\Cloudflare WARP.exe\" "
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 15424,
+	"ppid": 15404,
+	"cmd_line": "\"C:\\Program Files\\Adobe\\Adobe Creative Cloud Experience\\CCXProcess.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 15444,
+	"ppid": 15424,
+	"cmd_line": "\"C:\\Program Files\\Adobe\\Adobe Creative Cloud Experience\\libs\\node.exe\" \"C:\\Program Files\\Adobe\\Adobe Creative Cloud Experience\\js\\main.js\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 15452,
+	"ppid": 15444,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 15472,
+	"ppid": 13268,
+	"cmd_line": "\"C:\\Program Files (x86)\\Common Files\\Java\\Java Update\\jusched.exe\" "
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 15896,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 16144,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s seclogon"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 16200,
+	"ppid": 15444,
+	"cmd_line": "\"C:\\Program Files (x86)\\Common Files\\Adobe\\Adobe Desktop Common\\IPCBox\\AdobeIPCBroker.exe\" \"-launchedbyvulcan-15444 C:\\Program Files\\Adobe\\Adobe Creative Cloud Experience\\libs\\node.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 3840,
+	"ppid": 3624,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe\" --embedded-browser-webview=1 --webview-exe-name=MSPCManager.exe --webview-exe-version=3.12.5.0 --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\" --noerrdialogs --embedded-browser-webview-dpi-awareness=2 --enable-features=MojoIpcz,msSingleSignOnOSForPrimaryAccountIsShared --mojo-named-platform-channel-pipe=3624.7120.15515022659251942739"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 12316,
+	"ppid": 3840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe\" --type=crashpad-handler \"--user-data-dir=C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler \"--database=C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\\Crashpad\" \"--metrics-dir=C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=1"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 15432,
+	"ppid": 3840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe\" --type=gpu-process --noerrdialogs --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\" --webview-exe-name=MSPCManager.exe --webview-exe-version=3.12.5.0 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --gpu-preferences=UAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-hand"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 6972,
+	"ppid": 3840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --noerrdialogs --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\" --webview-exe-name=MSPCManager.exe --webview-exe-version=3.12.5.0 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --field-trial-handle=1900,i,4353748714490378359,18161573679727225237,262144 --en"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 15772,
+	"ppid": 3840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe\" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --noerrdialogs --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\" --webview-exe-name=MSPCManager.exe --webview-exe-version=3.12.5.0 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --field-trial-handle=1988,i,4353748714490378359,18161573679727225237,262144 -"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 15640,
+	"ppid": 3840,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\128.0.2739.79\\msedgewebview2.exe\" --type=renderer --noerrdialogs --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\PC Manager Store\\webview2\\EBWebView\" --webview-exe-name=MSPCManager.exe --webview-exe-version=3.12.5.0 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=5 --js-flag"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 16616,
+	"ppid": 7836,
+	"cmd_line": "\"D:\\New folder\\EVKey\\EVKey64.exe\" "
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17344,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkbackend\" \"5312\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17388,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkbackend\" \"5316\""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 12240,
+	"ppid": 10612,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 13448,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k UnistackSvcGroup"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 16528,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Intel\\SUR\\QUEENCREEK\\x64\\esrv_svc.exe\" \"--AUTO_START\" \"--start\" \"--start_options_registry_key\" \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\services\\ESRV_SVC_QUEENCREEK\\_start\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17132,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Microsoft SQL Server\\MSSQL16.MSSQLSERVER\\MSSQL\\Binn\\sqlservr.exe\" -sMSSQLSERVER"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 15512,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\SgrmBroker.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 11176,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Microsoft SQL Server\\MSSQL16.MSSQLSERVER\\MSSQL\\Binn\\sqlceip.exe\" -Service "
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 13456,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p -s wscsvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2440,
+	"ppid": 5224,
+	"cmd_line": "cmd.exe  /c \"C:\\metasploit\\apps\\pro\\..\\..\\nginx\\sbin\\nginxr7.exe\" -c C:\\metasploit\\apps\\pro\\..\\..\\nginx\\conf\\nginx.conf"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 3628,
+	"ppid": 2440,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 8108,
+	"ppid": 2440,
+	"cmd_line": "C:\\metasploit\\apps\\pro\\..\\..\\nginx\\sbin\\nginxr7.exe  -c C:\\metasploit\\apps\\pro\\..\\..\\nginx\\conf\\nginx.conf"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2128,
+	"ppid": 8108,
+	"cmd_line": "C:\\metasploit\\apps\\pro\\..\\..\\nginx\\sbin\\nginxr7.exe  -c C:\\metasploit\\apps\\pro\\..\\..\\nginx\\conf\\nginx.conf"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 6424,
+	"ppid": 2128,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 460,
+	"ppid": 5836,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 16560,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\SecurityHealthService.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 10840,
+	"ppid": 5836,
+	"cmd_line": "\"C:/metasploit/postgresql/bin/postgres.exe\" \"--forkbackend\" \"5332\""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 16540,
+	"ppid": 14460,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 8472,
+	"ppid": 16540,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 12628,
+	"ppid": 9040,
+	"cmd_line": "\"C:\\Program Files\\Intel\\SUR\\QUEENCREEK\\x64\\esrv.exe\" \"--start\" \"--start_options_handle\" \"924\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9820,
+	"ppid": 15472,
+	"cmd_line": "\"C:\\Program Files (x86)\\Common Files\\Java\\Java Update\\jucheck.exe\" -auto -critical"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 16900,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k netsvcs -p"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17312,
+	"ppid": 968,
+	"cmd_line": "/silentConfig"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 12608,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalService -p -s LicenseManager"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 12588,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe -Embedding"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5188,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s DsSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17260,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\system32\\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1244,
+	"ppid": 7836,
+	"cmd_line": "\"D:\\Riot Games\\Riot Client\\RiotClientServices.exe\" --launch-product= --launch-patchline="
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 13308,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=61 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=1381809253 --field-trial-handle=7144,i,3199256390647259218,31"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2076,
+	"ppid": 1244,
+	"cmd_line": "\"D:\\Riot Games\\Riot Client\\RiotClientCrashHandler.exe\" --no-rate-limit \"--database=C:\\Users\\buing\\AppData\\Local\\Riot Games\\Riot Client\\Crashes\\Riot Client\" \"--metrics-dir=C:\\Users\\buing\\AppData\\Local\\Riot Games\\Riot Client\\Crashes\\Riot Client\" --url=https://sentry.io:443/api/1339107/minidump/?sentry_client=sentry.native/0.7.5\u0026sentry_key=dc54709324504ab18ddf517a83f99e1a \"--attachment=C:/Users/buing/AppData/Local/Riot Games/Riot Client/Logs/Riot Client Logs/2024-09-24T09-45-15_1244_Riot Client.0.log\" \"--attac"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2952,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=66 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=1384514431 --field-trial-handle=6812,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9028,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=78 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=1386164175 --field-trial-handle=5356,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9256,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=67 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=1387600890 --field-trial-handle=7632,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 15088,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=68 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=1387981863 --field-trial-handle=8400,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9516,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=70 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=1388519876 --field-trial-handle=9516,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9112,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=71 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=1388732252 --field-trial-handle=9848,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 11184,
+	"ppid": 1244,
+	"cmd_line": "\"D:/Riot Games/Riot Client/RiotClientElectron/Riot Client.exe\" --app-port=52611 --remoting-auth-token=sG8lMU_Y4eREqXHR8DDDxA --app-pid=1244 \"--log-dir=C:/Users/buing/AppData/Local/Riot Games/Riot Client/Logs\" \"--user-data-root=C:/Users/buing/AppData/Local/Riot Games/Riot Client\" \"--app-root=D:/Riot Games/Riot Client\" --crashpad-environment=KeystoneFoundationLiveWin --machine-id=zcO3g0moGki/2/byo3/jKA=="
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 6928,
+	"ppid": 11184,
+	"cmd_line": "\"D:\\Riot Games\\Riot Client\\RiotClientElectron\\Riot Client.exe\" --type=crashpad-handler --user-data-dir=C:\\Users\\buing\\AppData\\Roaming\\riot-client-ux /prefetch:7 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\buing\\AppData\\Roaming\\riot-client-ux\\Crashpad --url=https://f.a.k/e --annotation=_productName=riot-client-ux --annotation=_version=94.0.0 --annotation=plat=Win64 --annotation=prod=Electron --annotation=ver=22.3.27 --initial-client-data=0x494,0x498,0x49c,0x470,0x448,"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5916,
+	"ppid": 11184,
+	"cmd_line": "\"D:\\Riot Games\\Riot Client\\RiotClientElectron\\Riot Client.exe\" --type=gpu-process --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\riot-client-ux\" --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --use-gl=angle --use-angle=swiftshader-webgl --mojo-platform-channel-handle=1840 --field-trial-handle=1900,i,16068419651933235806,1495083241431"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 11456,
+	"ppid": 11184,
+	"cmd_line": "\"D:\\Riot Games\\Riot Client\\RiotClientElectron\\Riot Client.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\riot-client-ux\" --standard-schemes --secure-schemes=sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=sentry-ipc --service-worker-schemes --streaming-schemes --mojo-platform-channel-handle=2036 --field-trial-handle=1900,i,16068419651933235806,1495083241431150101,"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9052,
+	"ppid": 11184,
+	"cmd_line": "\"D:\\Riot Games\\Riot Client\\RiotClientElectron\\Riot Client.exe\" --type=renderer --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\riot-client-ux\" --standard-schemes --secure-schemes=sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=sentry-ipc --service-worker-schemes --streaming-schemes --app-path=\"D:\\Riot Games\\Riot Client\\RiotClientElectron\\resources\\app.asar\" --enable-sandbox --first-renderer-process --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raste"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 13748,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=edge_search_indexer.mojom.SearchIndexerInterfaceBroker --lang=en-US --service-sandbox-type=search_indexer --message-loop-type-ui --video-capture-use-gpu-memory-buffer --string-annotations=is-enterprise-managed=yes --field-trial-handle=12376,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version --mojo-platform-channel-handle=11912 /prefetch:8"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17568,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --video-capture-use-gpu-memory-buffer --string-annotations=is-enterprise-managed=yes --field-trial-handle=12204,i,3199256390647259218,3105904011974637553,262144 --variations-seed-version --mojo-platform-channel-handle=9992 /prefetch:8"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17604,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\CompPkgSrv.exe -Embedding"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 18068,
+	"ppid": 15240,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 13660,
+	"ppid": 10612,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Overwolf\\ProcessCache\\0.258.1.7\\aheglebeeekjdnkljmpngplhpedgejncjhojnndh\\MetaTFT.exe\" --type=renderer --locales-dir-path=\"D:\\overwolf\\0.258.1.7\\Locales\" --log-severity=disable --user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OverwolfClient/0.258.1.7\" --uncaught-exception-stack-size=20 --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\Overwolf\\BrowserCache\" --owapp=\"MetaTFT - background\" --ow-enable-feature"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 19212,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 20304,
+	"ppid": 480,
+	"cmd_line": "\"C:\\WINDOWS\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe\" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 1620,
+	"ppid": 7836,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 20816,
+	"ppid": 4776,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 5004,
+	"ppid": 15240,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 11628,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 9396,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 6556,
+	"ppid": 7836,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17268,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=324 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=3443546541 --field-trial-handle=13292,i,3199256390647259218,3105904011974637553,262144 --variations-seed-versi"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17840,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=327 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=3451191581 --field-trial-handle=13204,i,3199256390647259218,3105904011974637553,262144 --variations-seed-versi"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 16424,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=329 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=3452006913 --field-trial-handle=14256,i,3199256390647259218,3105904011974637553,262144 --variations-seed-versi"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 18100,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceAndNoImpersonation -p -s wcncsvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17420,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=347 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=3912687706 --field-trial-handle=11400,i,3199256390647259218,3105904011974637553,262144 --variations-seed-versi"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 19656,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 21724,
+	"ppid": 2924,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 12432,
+	"ppid": 2916,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 18128,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\system32\\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 21756,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 12484,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 12236,
+	"ppid": 2924,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 18028,
+	"ppid": 7836,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 6216,
+	"ppid": 2924,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 21712,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 19092,
+	"ppid": 2924,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 21456,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 12188,
+	"ppid": 2924,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 6264,
+	"ppid": 2924,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 6280,
+	"ppid": 17284,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 22688,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 21272,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 19688,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k LocalService -p -s CaptureService"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 21520,
+	"ppid": 17284,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 10904,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 6224,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 12196,
+	"ppid": 936,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 8780,
+	"ppid": 17284,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 23052,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 22516,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=568 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=10964316594 --field-trial-handle=14708,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 20680,
+	"ppid": 936,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1544,
+	"ppid": 3020,
+	"cmd_line": "C:\\WINDOWS\\system32\\AUDIODG.EXE 0x6d0 0x6d4"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5340,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9252,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\system32\\wbem\\unsecapp.exe -Embedding"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 18968,
+	"ppid": 11168,
+	"cmd_line": "\"C:\\Program Files\\LGHUB\\logi_crashpad_handler.exe\" --no-rate-limit --database=C:\\Users\\buing\\AppData\\Local\\LGHUB\\sentry_db_lghub_agent --metrics-dir=C:\\Users\\buing\\AppData\\Local\\LGHUB\\sentry_db_lghub_agent --url=https://sentry.io:443/api/1779200/minidump/?sentry_client=sentry.native/0.4.14\u0026sentry_key=91ca51384751442380bd8987a6be91ab --attachment=C:\\ProgramData\\LGHUB\\installation.json --attachment=C:\\ProgramData\\LGHUB\\next.json --attachment=C:\\ProgramData\\LGHUB\\current.json --attachment=C:\\Users\\buing\\AppDat"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 21360,
+	"ppid": 4216,
+	"cmd_line": "\"C:\\Program Files\\LGHUB\\logi_crashpad_handler.exe\" --no-rate-limit --database=C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\LGHUB\\sentry_db_lghub_updater --metrics-dir=C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\LGHUB\\sentry_db_lghub_updater --url=https://sentry.io:443/api/1781309/minidump/?sentry_client=sentry.native/0.4.14\u0026sentry_key=5e4f884641df4e6a9514b41646a5ffa9 --attachment=C:\\ProgramData\\LGHUB\\installation.json --attachment=C:\\ProgramData\\LGHUB\\next.json --attachment=C:\\ProgramDa"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 19908,
+	"ppid": 1536,
+	"cmd_line": "taskhostw.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 19108,
+	"ppid": 1244,
+	"cmd_line": "\"D:/Riot Games/League of Legends/LeagueClient.exe\" --riotclient-auth-token=yOaYcRO8DhEM64swa73VpA --riotclient-app-port=52611 --no-rads --disable-self-update --region=VN2 --locale=vi_VN --riotgamesapi-standalone --riotgamesapi-settings=eyJjbGllbnQtY29uZmlnIjp7InVybCI6Imh0dHBzOi8vY2xpZW50Y29uZmlnLnJwZy5yaW90Z2FtZXMuY29tIn0sImRlZmF1bHRfcmVnaW9uIjoiVk4yIiwiZ2xvYmFscyI6eyJzZXNzaW9uLWlkIjoiNzAwM2I1YmItYTA3OC0xZTQ3LThjNTItOGZkYzc2ZGM1ODFjIn0sInBhdGNobGluZV9pZCI6ImxpdmUiLCJwcm9kdWN0LWludGVncmF0aW9uIjp7ImFwcC11cGRh"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 22124,
+	"ppid": 19108,
+	"cmd_line": "\"D:\\Riot Games\\League of Legends\\LeagueCrashHandler64.exe\" \"--database=C:/Users/buing/AppData/Local/Riot Games/League of Legends/LeagueClient/Crashes\" \"--metrics-dir=C:/Users/buing/AppData/Local/Riot Games/League of Legends/LeagueClient/Crashes\" --url=https://sentry.io/api/1442968/minidump/?sentry_key=819c51f9b27f4f4b8cf6811c04fda544 --initial-client-data=0x260,0x26c,0x274,0x25c,0x27c,0x7ff7a6ea54f8,0x7ff7a6ea5510,0x7ff7a6ea5528"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 12784,
+	"ppid": 19108,
+	"cmd_line": "\"D:/Riot Games/League of Legends/LeagueClientUx.exe\" \"--riotclient-auth-token=yOaYcRO8DhEM64swa73VpA\" \"--riotclient-app-port=52611\" \"--no-rads\" \"--disable-self-update\" \"--region=VN2\" \"--locale=vi_VN\" \"--riotgamesapi-standalone\" \"--riotgamesapi-settings=eyJjbGllbnQtY29uZmlnIjp7InVybCI6Imh0dHBzOi8vY2xpZW50Y29uZmlnLnJwZy5yaW90Z2FtZXMuY29tIn0sImRlZmF1bHRfcmVnaW9uIjoiVk4yIiwiZ2xvYmFscyI6eyJzZXNzaW9uLWlkIjoiNzAwM2I1YmItYTA3OC0xZTQ3LThjNTItOGZkYzc2ZGM1ODFjIn0sInBhdGNobGluZV9pZCI6ImxpdmUiLCJwcm9kdWN0LWludGVncmF0aW9"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9996,
+	"ppid": 12784,
+	"cmd_line": "\"D:\\Riot Games\\League of Legends\\LeagueClientUxRender.exe\" --type=gpu-process --field-trial-handle=1580,15147008198260426302,410620485156031559,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies --no-sandbox --log-file=\"D:\\Riot Games\\League of Legends\\debug.log\" --user-agent-product=\"LeagueOfLegendsClient/14.18.620.2082 (CEF 91)\" --lang=en-US --gpu-preferences=SAAAAAAAAADgACgwAAAAAAAAAAAAAAAAAABgAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAAAAAAHgAA"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 19120,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=636 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=18363139222 --field-trial-handle=12612,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 11088,
+	"ppid": 12784,
+	"cmd_line": "\"D:\\Riot Games\\League of Legends\\LeagueClientUxRender.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1580,15147008198260426302,410620485156031559,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies --lang=en-US --service-sandbox-type=none --no-sandbox --ignore-certificate-errors --ignore-certificate-errors --log-file=\"D:\\Riot Games\\League of Legends\\debug.log\" --user-agent-product=\"LeagueOfLegendsClient/14.1"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 21004,
+	"ppid": 12784,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 572,
+	"ppid": 12784,
+	"cmd_line": "\"D:\\Riot Games\\League of Legends\\LeagueClientUxRender.exe\" --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-device-scale-factor=1 --log-file=\"D:\\Riot Games\\League of Legends\\debug.log\" --max-active-webgl-contexts=20 --field-trial-handle=1580,15147008198260426302,410620485156031559,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies --lang=en-US --log-file=\"D:\\Riot Games\\League of Legends\\debug.log\" --user-agent-product"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1408,
+	"ppid": 12784,
+	"cmd_line": "\"D:\\Riot Games\\League of Legends\\LeagueClientUxRender.exe\" --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=1580,15147008198260426302,410620485156031559,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies --lang=en-US --service-sandbox-type=audio --no-sandbox --ignore-certificate-errors --ignore-certificate-errors --log-file=\"D:\\Riot Games\\League of Legends\\debug.log\" --user-agent-product=\"LeagueOfLegendsClient/14.18.6"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 12596,
+	"ppid": 840,
+	"cmd_line": "\"C:\\Program Files\\Riot Vanguard\\vgc.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9748,
+	"ppid": 10612,
+	"cmd_line": "\"D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe\" --type=renderer --locales-dir-path=\"D:\\overwolf\\0.258.1.7\\Locales\" --log-severity=disable --user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OverwolfClient/0.258.1.7\" --uncaught-exception-stack-size=20 --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\Overwolf\\BrowserCache\" --owapp=\"Launcher Events Provider - app.html\" --ow-enable-features=osr-software-rendering,use-override-ad-domain-as-referr"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 22660,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 22556,
+	"ppid": 12784,
+	"cmd_line": "\"D:\\Riot Games\\League of Legends\\LeagueClientUxRender.exe\" --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --force-device-scale-factor=1 --log-file=\"D:\\Riot Games\\League of Legends\\debug.log\" --max-active-webgl-contexts=20 --field-trial-handle=1580,15147008198260426302,410620485156031559,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies --lang=en-US --log-file=\"D:\\Riot Games\\League of Legends\\debug.log\" --user-agent-product"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2124,
+	"ppid": 480,
+	"cmd_line": "\"C:\\WINDOWS\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe\" -ServerName:ShellFeedsUI.AppX88fpyyrd21w8wqe62wzsjh5agex7tf1e.mca"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 21244,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\devenv.exe\" "
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4852,
+	"ppid": 21244,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\controller\\Microsoft.ServiceHub.Controller.exe\" \"c5c8ed54178cc070febe8b4d435ced2620916fcf185dfff7767d0beb23d1079d\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" /ControllerCooldownTimeout:30000 \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\"\"\":\"\"\"AIF-312c"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2184,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.netfx.x86\\ServiceHub.IdentityHost.exe\" \"netfx.x86$IdentityHost\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\"\"\":\"\"\"AIF-312cbd79-9dbb-4c"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 6956,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.VSDetouredHost.exe\" \"netfx.anycpu$VSDetouredHost\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\"\"\":\"\"\"AIF-312cbd79-9db"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9572,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.Dotnet.x64\\ServiceHub.IndexingService\" \"dotnet$IndexingService\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5436,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.ThreadedWaitDialog.exe\" \"netfx.anycpu$ThreadedWaitDialog\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\"\"\":\"\"\"AIF-312c"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 10516,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.netfx.x86\\ServiceHub.Host.netfx.x86.exe\" \"netfx.x86$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 19884,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.SettingsHost.exe\" \"netfx.anycpu$SettingsHost\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\"\"\":\"\"\"AIF-312cbd79-9dbb-4c"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 23232,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.netfx.x64\\ServiceHub.IntellicodeModelService.exe\" \"netfx.x64$IntellicodeModelService\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17824,
+	"ppid": 21244,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\vshost.exe\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17040,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.Host.AnyCPU.exe\" \"netfx.anycpu$CodeLensService$$21244\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\"\"\":\"\"\"AIF-312cbd7"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 6964,
+	"ppid": 4852,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.TestWindowStoreHost.exe\" \"netfx.anycpu$TestWindowStoreHost\" \"net.pipe://48529A1520DCFDA2F3A7DEED3F59E793A744\" \"/AppBasePath:%VSAPPIDDIR%\" \"/ConfigFile:%PkgDefApplicationConfigFile%\" \"/TelemetrySession:{\"\"\"TelemetryLevel\"\"\":null,\"\"\"IsOptedIn\"\"\":false,\"\"\"HostName\"\"\":\"\"\"Dev14\"\"\",\"\"\"AppInsightsInstrumentationKey\"\"\":\"\"\"f144292e-e3b2-4011-ac90-20e5c03fbce5\"\"\",\"\"\"AsimovInstrumentationKey\"\"\":\"\"\"AIF-31"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17504,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\system32\\prevhost.exe {914FEED8-267A-4BAA-B8AA-21E233792679} -Embedding"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 20832,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=660 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=18800891888 --field-trial-handle=10920,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 20092,
+	"ppid": 7836,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 21236,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 10148,
+	"ppid": 8960,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 12772,
+	"ppid": 19108,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 15016,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 6984,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=667 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=19036154803 --field-trial-handle=9204,i,3199256390647259218,3105904011974637553,262144 --variations-seed-versi"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9420,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --instant-process --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=680 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=19108706881 --field-trial-handle=14480,i,3199256390647259218,3105904011974637553,262144 --va"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5264,
+	"ppid": 480,
+	"cmd_line": "\"C:\\WINDOWS\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe\" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 13292,
+	"ppid": 19108,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 19788,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 13756,
+	"ppid": 17824,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\vcpackages\\x86\\VCPkgSrv.exe\" -s {5DC497A7-F3FC-4BDD-AAF2-FCED4C60F878} -p 21244 -i TagParser -r \"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\common7\\ide\\x86\\VSReliability.dll\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 23008,
+	"ppid": 17824,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\vcpackages\\x86\\VCPkgSrv.exe\" -q -s {457824CE-1990-4D93-9E16-9360D1A1DFEE} -p 21244 -i IntelliSense -r \"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\common7\\ide\\x86\\VSReliability.dll\""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 4068,
+	"ppid": 19108,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 16552,
+	"ppid": 480,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 11328,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=846 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=23452554881 --field-trial-handle=15404,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 19368,
+	"ppid": 10612,
+	"cmd_line": "\"D:\\overwolf\\0.258.1.7\\OverwolfBrowser.exe\" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --no-sandbox --locales-dir-path=\"D:\\overwolf\\0.258.1.7\\Locales\" --log-severity=disable --user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OverwolfClient/0.258.1.7\" --lang=en-US --user-data-dir=\"C:\\Users\\buing\\AppData\\Local\\Overwolf\\BrowserCache\" --ignore-certificate-errors --remote-allow-ori"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 16788,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=872 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=23904525862 --field-trial-handle=14952,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 20676,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=877 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=24019591146 --field-trial-handle=7984,i,3199256390647259218,3105904011974637553,262144 --variations-seed-versi"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 24396,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k wsappx -p -s AppXSvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 2096,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=891 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=24169760034 --field-trial-handle=9976,i,3199256390647259218,3105904011974637553,262144 --variations-seed-versi"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 10872,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=892 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=24175379612 --field-trial-handle=16232,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 10224,
+	"ppid": 7284,
+	"cmd_line": "\"C:\\WINDOWS\\system32\\SearchProtocolHost.exe\" Global\\UsGthrFltPipeMssGthrPipe68_ Global\\UsGthrCtrlFltPipeMssGthrPipe68 1 -2147483646 \"Software\\Microsoft\\Windows Search\" \"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)\" \"C:\\ProgramData\\Microsoft\\Search\\Data\\Temp\\usgthrsvc\" \"DownLevelDaemon\" "
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9988,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=937 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=25373893895 --field-trial-handle=16968,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 24320,
+	"ppid": 21244,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\MSBuild.exe\" /nologo /nodemode:1 /nodeReuse:true /low:false"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17220,
+	"ppid": 24320,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 22048,
+	"ppid": 21244,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\MSBuild.exe\" /nologo /nodemode:1 /nodeReuse:true /low:false"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 19888,
+	"ppid": 22048,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9688,
+	"ppid": 22800,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\VCTIP.EXE\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 22612,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=944 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=25455975907 --field-trial-handle=15304,i,3199256390647259218,3105904011974637553,262144 --variations-seed-vers"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 22484,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=945 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=25455990021 --field-trial-handle=16364,i,3199256390647259218"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 8012,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\smartscreen.exe -Embedding"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 14804,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" "
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 9712,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=crashpad-handler --user-data-dir=C:\\Users\\buing\\AppData\\Roaming\\Code /prefetch:4 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\buing\\AppData\\Roaming\\Code\\Crashpad --url=appcenter://code?aid=a4e3233c-699c-46ec-b4f4-9c2a77254662\u0026uid=2a5952c2-80e0-41a3-ab89-e2b2532f974e\u0026iid=2a5952c2-80e0-41a3-ab89-e2b2532f974e\u0026sid=2a5952c2-80e0-41a3-ab89-e2b2532f974e --annotation=_companyName=Microsoft --annotation="
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 11776,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=gpu-process --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\Code\" --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=1740,i,13933868214815027921,12288733215806109056,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinDelaySpellc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 23708,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 18752,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=renderer --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-user-model-id=Microsoft.VisualStudioCode --app-path=\"C:\\Users\\buing\\AppData\\Local\\Program"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 21008,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-sc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 18240,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4308,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 20664,
+	"ppid": 14804,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --user-data-dir=\"C:\\Users\\buing\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 21928,
+	"ppid": 21008,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"c:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\json-language-features\\server\\dist\\node\\jsonServerMain\" --node-ipc --clientProcessId=21008"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 19380,
+	"ppid": 20664,
+	"cmd_line": "\\\\?\\C:\\WINDOWS\\system32\\conhost.exe --headless --inheritcursor --width 200 --height 19 --signal 0x3c8 --server 0x3c0"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 264,
+	"ppid": 21008,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" c:\\Users\\buing\\.vscode\\extensions\\formulahendry.auto-rename-tag-0.1.10\\packages\\server\\dist\\serverMain.js --node-ipc --clientProcessId=21008"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 18216,
+	"ppid": 20664,
+	"cmd_line": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command \"try { . \\\"c:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\browser\\media\\shellIntegration.ps1\\\" } catch {}\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17096,
+	"ppid": 21008,
+	"cmd_line": "C:\\Users\\buing\\go\\bin\\gopls.exe -mode=stdio"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 18768,
+	"ppid": 17096,
+	"cmd_line": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 24108,
+	"ppid": 21008,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" c:\\Users\\buing\\.vscode\\extensions\\dbaeumer.vscode-eslint-3.0.10\\server\\out\\eslintServer.js --node-ipc --clientProcessId=21008"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 1928,
+	"ppid": 17096,
+	"cmd_line": "C:\\Users\\buing\\go\\bin\\gopls.exe \"** telemetry **\""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 19892,
+	"ppid": 21008,
+	"cmd_line": "\"C:\\Users\\buing\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" c:\\Users\\buing\\.vscode\\extensions\\bradlc.vscode-tailwindcss-0.12.10\\dist\\tailwindServer.js --node-ipc --clientProcessId=21008"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 18064,
+	"ppid": 18216,
+	"cmd_line": "\"C:\\Program Files\\Go\\bin\\go.exe\" run .\\main.go"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 18496,
+	"ppid": 480,
+	"cmd_line": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 20212,
+	"ppid": 7836,
+	"cmd_line": "\"C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.20.11781.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe\" "
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 22376,
+	"ppid": 20212,
+	"cmd_line": "\"C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.20.11781.0_x64__8wekyb3d8bbwe\\OpenConsole.exe\" --headless --resizeQuirk --width 120 --height 30 --signal 0xb78 --server 0xb70"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 21996,
+	"ppid": 20212,
+	"cmd_line": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 4040,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s gpsvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 11220,
+	"ppid": 18064,
+	"cmd_line": "C:\\Users\\buing\\AppData\\Local\\Temp\\go-build2721334680\\b001\\exe\\main.exe"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 23264,
+	"ppid": 2924,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 22708,
+	"ppid": 840,
+	"cmd_line": "C:\\WINDOWS\\system32\\svchost.exe -k netsvcs -p -s wlidsvc"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 23816,
+	"ppid": 20212,
+	"cmd_line": "\"C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.20.11781.0_x64__8wekyb3d8bbwe\\OpenConsole.exe\" --headless --resizeQuirk --width 92 --height 50 --signal 0xf28 --server 0xf20"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 22168,
+	"ppid": 20212,
+	"cmd_line": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 22224,
+	"ppid": 7284,
+	"cmd_line": "\"C:\\WINDOWS\\system32\\SearchFilterHost.exe\" 0 836 840 848 8192 844 816 "
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 5140,
+	"ppid": 480,
+	"cmd_line": "C:\\WINDOWS\\sysWOW64\\wbem\\wmiprvse.exe -secured -Embedding"
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 20964,
+	"ppid": 17824,
+	"cmd_line": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\vcpackages\\x86\\VCPkgSrv.exe\" -q -s {03A9093D-3517-437D-89AD-69C9B49C1B02} -p 21244 -i IntelliSense -r \"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\common7\\ide\\x86\\VSReliability.dll\""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 4192,
+	"ppid": 22168,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 3848,
+	"ppid": 10740,
+	"cmd_line": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --string-annotations=is-enterprise-managed=yes --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=952 --time-ticks-at-unix-epoch=-1727144532097895 --launch-time-ticks=25651460567 --field-trial-handle=17264,i,3199256390647259218"
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 20500,
+	"ppid": 21996,
+	"cmd_line": ""
+},{
+	"opcode": 39,
+	"opcode_name": "Defunct",
+	"pid": 21720,
+	"ppid": 21996,
+	"cmd_line": ""
+},{
+	"opcode": 4,
+	"opcode_name": "DCEnd",
+	"pid": 17836,
+	"ppid": 22168,
+	"cmd_line": "\"C:\\Users\\buing\\source\\repos\\WinGRPC\\x64\\Release\\SystemETW.exe\" 127.0.0.1 50051"
+}]
